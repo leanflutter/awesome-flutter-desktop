@@ -1,0 +1,14 @@
+- name: Biyi (比译)
+  repo: biyidev/biyi_app
+  url: https://biyidev.com/
+- name: AuthPass 
+  repo: authpass/authpass
+  url: https://authpass.app/
+- name: flutter_blossom
+  repo: flutter-blossom/flutter_blossom
+  url: https://flutter-blossom.github.io/
+- name: Invoice Ninja
+  repo: invoiceninja/admin-portal
+- name: Yukino
+  repo: yukino-app/yukino
+  url: https://yukino-app.github.io/

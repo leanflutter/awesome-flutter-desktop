@@ -1,0 +1,16 @@
+.buildlog
+.pub/
+build/
+packages
+.packages
+*.dart.js
+*.js_
+*.js.deps
+*.js.map
+workspace.xml
+Dart_Packages.xml
+.DS_Store
+.idea/
+.dart_tool/
+.cache.json
+config.yaml
