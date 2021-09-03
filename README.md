@@ -55,6 +55,7 @@ A curated list of awesome things related to Flutter desktop.
 | [Invoice Ninja](null) | [![GitHub Repo stars](https://img.shields.io/github/stars/invoiceninja/admin-portal?style=social)](https://github.com/invoiceninja/admin-portal) | Invoice Ninja client built with Flutter |
 | [Yukino](https://yukino-app.github.io/) | [![GitHub Repo stars](https://img.shields.io/github/stars/yukino-app/yukino?style=social)](https://github.com/yukino-app/yukino) | Yukino lets you read manga or stream anime ad-free from multiple sources for free! Available for Windows, Linux, MacOS and Android. |
 | [flutter_blossom](https://flutter-blossom.github.io/) | [![GitHub Repo stars](https://img.shields.io/github/stars/flutter-blossom/flutter_blossom?style=social)](https://github.com/flutter-blossom/flutter_blossom) | A low code editor with the full power of flutter. created by @sanihaq for @flutter🌸 |
+| [Ubuntu Desktop Installer](https://ubuntu.com/) | [![GitHub Repo stars](https://img.shields.io/github/stars/canonical/ubuntu-desktop-installer?style=social)](https://github.com/canonical/ubuntu-desktop-installer/) | A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI. |
 
 
 <!--AUTO-GENERATE-->

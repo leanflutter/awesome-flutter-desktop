@@ -14,3 +14,6 @@
   url: https://yukino-app.github.io/
 - name: Harmonoid
   repo: harmonoid/harmonoid
+- name: Ubuntu Desktop Installer
+  repo: canonical/ubuntu-desktop-installer
+  url: https://ubuntu.com/
