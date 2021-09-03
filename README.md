@@ -40,6 +40,7 @@ A curated list of awesome things related to Flutter desktop.
 | [system_tray](https://pub.dev/packages/system_tray) | [![GitHub Repo stars](https://img.shields.io/github/stars/antler119/system_tray?style=social)](https://github.com/antler119/system_tray) | system_tray that makes it easy to customize tray and work with your Flutter desktop app window **on Windows, macOS and Linux**. |
 | [tray_manager](https://pub.dev/packages/tray_manager) | [![GitHub Repo stars](https://img.shields.io/github/stars/leanflutter/tray_manager?style=social)](https://github.com/leanflutter/tray_manager) | This plugin allows Flutter desktop apps to defines system tray. |
 | [window_manager](https://pub.dev/packages/window_manager) | [![GitHub Repo stars](https://img.shields.io/github/stars/leanflutter/window_manager?style=social)](https://github.com/leanflutter/window_manager) | This plugin allows Flutter **desktop** apps to resizing and repositioning the window. |
+| [Native Shell](https://pub.dev/packages/nativeshell) | [![GitHub Repo stars](https://img.shields.io/github/stars/nativeshell/nativeshell?style=social)](https://github.com/nativeshell/nativeshell) | Experimental embedder for Flutter,written in Rust. supports Windows,MacOS,Linux|
 
 ## Open Source Apps
 
