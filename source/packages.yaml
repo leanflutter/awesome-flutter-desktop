@@ -50,3 +50,5 @@
   repo: prateekmedia/gtk-flutter
 - name: window_decorations
   repo: prateekmedia/window_decorations
+- name: macos_ui
+  repo: GroovinChip/macos_ui

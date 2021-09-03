@@ -14,6 +14,7 @@
   url: https://yukino-app.github.io/
 - name: Harmonoid
   repo: harmonoid/harmonoid
+  url: https://github.com/harmonoid/harmonoid
 - name: Ubuntu Desktop Installer
   description: A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI.
   repo: canonical/ubuntu-desktop-installer
