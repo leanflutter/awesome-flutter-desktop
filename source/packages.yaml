@@ -38,3 +38,7 @@
   repo: fluttercommunity/plus_plugins
 - name: share_plus
   repo: fluttercommunity/plus_plugins
+- name: flutter_acrylic
+  repo: alexmercerind/flutter_acrylic
+- name: nativeshell
+  repo: nativeshell/nativeshell
