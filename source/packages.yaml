@@ -46,3 +46,7 @@
   repo: harmonoid/flutter_media_metadata
 - name: desktoasts 
   repo: alexmercerind/desktoasts
+- name: gtk
+  repo: prateekmedia/gtk-flutter
+- name: window_decorations
+  repo: prateekmedia/window_decorations
