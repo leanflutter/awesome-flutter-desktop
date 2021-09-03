@@ -54,17 +54,19 @@ class LocalDb {
     for (var item in doc) {
       App app = App.fromJson(Map<String, dynamic>.from(item));
 
-      String cacheKey = 'github#${app.repo}';
-      Repository repository;
-      if (_cacheMap.containsKey(cacheKey)) {
-        repository = Repository.fromJson(_cacheMap[cacheKey]);
-      } else {
-        repository = await githubClient.repositories.getRepository(
-          RepositorySlug(app.repo.split('/')[0], app.repo.split('/')[1]),
-        );
-        _cacheMap.putIfAbsent(cacheKey, () => repository.toJson());
+      if (app.description == null) {
+        String cacheKey = 'github#${app.repo}';
+        Repository repository;
+        if (_cacheMap.containsKey(cacheKey)) {
+          repository = Repository.fromJson(_cacheMap[cacheKey]);
+        } else {
+          repository = await githubClient.repositories.getRepository(
+            RepositorySlug(app.repo.split('/')[0], app.repo.split('/')[1]),
+          );
+          _cacheMap.putIfAbsent(cacheKey, () => repository.toJson());
+        }
+        app.description = repository.description;
       }
-      app.description = repository.description;
       appList.add(app);
     }
     return appList;
@@ -79,21 +81,23 @@ class LocalDb {
     for (var item in doc) {
       Package package = Package.fromJson(Map<String, dynamic>.from(item));
 
-      String cacheKey = 'pub#${package.name}';
+      if (package.description == null) {
+        String cacheKey = 'pub#${package.name}';
 
-      PubPackage pubPackage;
-      if (_cacheMap.containsKey(cacheKey)) {
-        pubPackage = PubPackage.fromJson(_cacheMap[cacheKey]);
-      } else {
-        pubPackage = await pubClient.packageInfo(package.name);
-        _cacheMap.update(
-          cacheKey,
-          (_) => pubPackage.toJson(),
-          ifAbsent: () => pubPackage.toJson(),
-        );
+        PubPackage pubPackage;
+        if (_cacheMap.containsKey(cacheKey)) {
+          pubPackage = PubPackage.fromJson(_cacheMap[cacheKey]);
+        } else {
+          pubPackage = await pubClient.packageInfo(package.name);
+          _cacheMap.update(
+            cacheKey,
+            (_) => pubPackage.toJson(),
+            ifAbsent: () => pubPackage.toJson(),
+          );
+        }
+        package.description = pubPackage.description;
       }
 
-      package.description = pubPackage.description;
       packageList.add(package);
     }
     return packageList;

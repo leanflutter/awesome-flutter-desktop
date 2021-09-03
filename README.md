@@ -11,6 +11,7 @@ A curated list of awesome things related to Flutter desktop.
   - [Packages](#packages)
   - [Open Source Apps](#open-source-apps)
   - [Discussion](#discussion)
+  - [Contribution](#contribution)
   - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -53,9 +54,9 @@ A curated list of awesome things related to Flutter desktop.
 | [Biyi (比译)](https://biyidev.com/) | [![GitHub Repo stars](https://img.shields.io/github/stars/biyidev/biyi_app?style=social)](https://github.com/biyidev/biyi_app) | Biyi (比译) is a convenient translation and dictionary app written in dart / Flutter.  |
 | [Harmonoid](null) | [![GitHub Repo stars](https://img.shields.io/github/stars/harmonoid/harmonoid?style=social)](https://github.com/harmonoid/harmonoid) | [WIP] 🎵 A music app with a beautiful UI to play local music & YouTube music. Distributes music into albums & artists. Has playlists & lyrics. |
 | [Invoice Ninja](null) | [![GitHub Repo stars](https://img.shields.io/github/stars/invoiceninja/admin-portal?style=social)](https://github.com/invoiceninja/admin-portal) | Invoice Ninja client built with Flutter |
+| [Ubuntu Desktop Installer](https://ubuntu.com/) | [![GitHub Repo stars](https://img.shields.io/github/stars/canonical/ubuntu-desktop-installer?style=social)](https://github.com/canonical/ubuntu-desktop-installer) | A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI. |
 | [Yukino](https://yukino-app.github.io/) | [![GitHub Repo stars](https://img.shields.io/github/stars/yukino-app/yukino?style=social)](https://github.com/yukino-app/yukino) | Yukino lets you read manga or stream anime ad-free from multiple sources for free! Available for Windows, Linux, MacOS and Android. |
 | [flutter_blossom](https://flutter-blossom.github.io/) | [![GitHub Repo stars](https://img.shields.io/github/stars/flutter-blossom/flutter_blossom?style=social)](https://github.com/flutter-blossom/flutter_blossom) | A low code editor with the full power of flutter. created by @sanihaq for @flutter🌸 |
-| [Ubuntu Desktop Installer](https://ubuntu.com/) | [![GitHub Repo stars](https://img.shields.io/github/stars/canonical/ubuntu-desktop-installer?style=social)](https://github.com/canonical/ubuntu-desktop-installer/) | A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI. |
 
 
 <!--AUTO-GENERATE-->
@@ -68,28 +69,12 @@ A curated list of awesome things related to Flutter desktop.
 - [QQ Group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
 - [Telegram Group](https://t.me/leanflutter)
 
+## Contribution
+
+Please make sure to read the [Contributing Guide](https://github.com/leanflutter/awesome-flutter-desktop/blob/main/.github/CONTRIBUTING.md) before making a pull request.
+
 ## License
 
-```text
-MIT License
+[MIT](./LICENSE)
 
 Copyright (c) 2021 LiJianying <lijy91@foxmail.com>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
