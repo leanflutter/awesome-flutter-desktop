@@ -12,3 +12,5 @@
 - name: Yukino
   repo: yukino-app/yukino
   url: https://yukino-app.github.io/
+- name: Harmonoid
+  repo: harmonoid/harmonoid

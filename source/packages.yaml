@@ -42,3 +42,7 @@
   repo: alexmercerind/flutter_acrylic
 - name: nativeshell
   repo: nativeshell/nativeshell
+- name: flutter_media_metadata 
+  repo: harmonoid/flutter_media_metadata
+- name: desktoasts 
+  repo: alexmercerind/desktoasts
