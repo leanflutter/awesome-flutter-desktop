@@ -52,3 +52,10 @@
   repo: prateekmedia/window_decorations
 - name: macos_ui
   repo: GroovinChip/macos_ui
+- name: flutter95
+  repo: miquelbeltran/flutter95
+- name: chicago
+  repo: tvolkert/chicago
+- name: fluent_ui
+  repo: bdlukaa/fluent_ui
+  
