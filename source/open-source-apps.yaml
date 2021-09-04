@@ -27,11 +27,3 @@
   description: Youtube video client + downloader made using flutter for mobile and desktop.
   repo: prateekmedia/flutube
   url: https://github.com/prateekmedia/flutube
-- name: Chicago widget library
-  description: The Chicago widget set is a retro 32-bit desktop design language for Flutter. It was discussed in the Building a desktop design language with Flutter session in Google I/O 2021.
-  repo: tvolkert/chicago
-  url: https://github.com/tvolkert/chicago
-- name: fluent_ui
-  description: Unofficial implementation of Fluent UI for Flutter. It's written based on the official documentation.
-  repo: bdlukaa/fluent_ui
-  url: https://github.com/bdlukaa/fluent_ui
