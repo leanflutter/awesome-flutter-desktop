@@ -27,3 +27,7 @@
   description: Youtube video client + downloader made using flutter for mobile and desktop.
   repo: prateekmedia/flutube
   url: https://github.com/prateekmedia/flutube
+- name: Sharik
+  description: Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
+  repo: marchellodev/sharik
+  url: https://github.com/marchellodev/sharik
