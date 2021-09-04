@@ -58,4 +58,5 @@
   repo: tvolkert/chicago
 - name: fluent_ui
   repo: bdlukaa/fluent_ui
-  
+- name: win32
+  repo: timsneath/win32
