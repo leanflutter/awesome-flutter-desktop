@@ -18,7 +18,7 @@
 - name: Ubuntu Desktop Installer
   description: A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI.
   repo: canonical/ubuntu-desktop-installer
-  url: https://ubuntu.com/
+  url: https://github.com/canonical/ubuntu-desktop-installer
 - name: AppImage Pool
   description: Simple and modern AppImageHub Client for Linux desktop.
   repo: prateekmedia/appimagepool
