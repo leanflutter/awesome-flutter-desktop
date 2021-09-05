@@ -8,7 +8,7 @@ class App {
       'https://img.shields.io/github/stars/${repo}?style=social';
 
   String get md {
-    String linkedName = '[${name}](${url})';
+    String linkedName = '[${name}](${url ?? githubUrl})';
     String linkedBadgeStars =
         '[![GitHub Repo stars]($githubBadgeStars)]($githubUrl)';
     return '| $linkedName | $linkedBadgeStars | ${description} |';
