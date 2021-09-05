@@ -53,6 +53,7 @@ A curated list of awesome things related to Flutter desktop.
 | [win32](https://pub.dev/packages/win32) | [![GitHub Repo stars](https://img.shields.io/github/stars/timsneath/win32?style=social)](https://github.com/timsneath/win32) | A Dart library for accessing common Win32 APIs using FFI. No C required! |
 | [window_decorations](https://pub.dev/packages/window_decorations) | [![GitHub Repo stars](https://img.shields.io/github/stars/prateekmedia/window_decorations?style=social)](https://github.com/prateekmedia/window_decorations) | A package which provides most of the window decorations from linux themes. |
 | [window_manager](https://pub.dev/packages/window_manager) | [![GitHub Repo stars](https://img.shields.io/github/stars/leanflutter/window_manager?style=social)](https://github.com/leanflutter/window_manager) | This plugin allows Flutter **desktop** apps to resizing and repositioning the window. |
+| [yaru](https://pub.dev/packages/yaru) | [![GitHub Repo stars](https://img.shields.io/github/stars/ubuntu/yaru.dart?style=social)](https://github.com/ubuntu/yaru.dart) | Ubuntu Yaru Style - Distinct look and feel of the Ubuntu Desktop |
 
 ## Open Source Apps
 
