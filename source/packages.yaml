@@ -62,3 +62,5 @@
   repo: timsneath/win32
 - name: dbus
   repo: canonical/dbus
+- name: yaru
+  repo: ubuntu/yaru.dart
