@@ -31,3 +31,9 @@
   description: Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
   repo: marchellodev/sharik
   url: https://github.com/marchellodev/sharik
+- name: Flutter Folio
+  repo: gskinnerTeam/flutter-folio
+  url: https://github.com/gskinnerTeam/flutter-folio
+- name: Flokk
+  repo: gskinnerTeam/flokk
+  url: https://github.com/gskinnerTeam/flokk
