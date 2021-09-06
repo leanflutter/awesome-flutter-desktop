@@ -64,3 +64,5 @@
   repo: canonical/dbus
 - name: yaru
   repo: ubuntu/yaru.dart
+- name: screen_retriever
+  repo: leanflutter/screen_retriever
