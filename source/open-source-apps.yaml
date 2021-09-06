@@ -32,3 +32,7 @@
 - name: Flokk
   repo: gskinnerTeam/flokk
   url: https://flutter.gskinner.com/flokk/
+- name: Cash Balancer
+  repo: bernaferrari/CashBalancer
+- name: Color Studio
+  repo: bernaferrari/color-studio
