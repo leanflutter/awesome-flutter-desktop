@@ -33,6 +33,8 @@
   repo: gskinnerTeam/flokk
   url: https://flutter.gskinner.com/flokk/
 - name: Cash Balancer
+  description: An asset allocation app for managing cash accross different wallets.
   repo: bernaferrari/CashBalancer
 - name: Color Studio
+  description: An app that helps making coherent and accessible color themes.
   repo: bernaferrari/color-studio
