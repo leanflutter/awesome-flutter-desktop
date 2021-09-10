@@ -66,3 +66,5 @@
   repo: ubuntu/yaru.dart
 - name: screen_retriever
   repo: leanflutter/screen_retriever
+- name: desktop_drop
+  repo: MixinNetwork/flutter-plugins

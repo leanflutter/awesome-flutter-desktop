@@ -9,9 +9,9 @@
   url: https://flutter-blossom.github.io/
 - name: Invoice Ninja
   repo: invoiceninja/admin-portal
-- name: Yukino
-  repo: yukino-app/yukino
-  url: https://yukino-app.github.io/
+# - name: Yukino
+#   repo: yukino-app/yukino
+#   url: https://yukino-app.github.io/
 - name: Harmonoid
   repo: harmonoid/harmonoid
 - name: Ubuntu Desktop Installer
