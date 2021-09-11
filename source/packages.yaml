@@ -68,3 +68,7 @@
   repo: leanflutter/screen_retriever
 - name: desktop_drop
   repo: MixinNetwork/flutter-plugins
+- name: squirrel
+  repo: anaisbetts/squirrel-flutter
+- name: msix
+  repo: YehudaKremer/msix
