@@ -72,3 +72,5 @@
   repo: anaisbetts/squirrel-flutter
 - name: msix
   repo: YehudaKremer/msix
+- name: libwinmedia
+  repo: harmonoid/libwinmedia
