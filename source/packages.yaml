@@ -61,7 +61,7 @@
 - name: win32
   repo: timsneath/win32
 - name: dbus
-  repo: canonical/dbus
+  repo: canonical/dbus.dart
 - name: yaru
   repo: ubuntu/yaru.dart
 - name: screen_retriever

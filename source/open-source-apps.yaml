@@ -9,9 +9,8 @@
   url: https://flutter-blossom.github.io/
 - name: Invoice Ninja
   repo: invoiceninja/admin-portal
-# - name: Yukino
-#   repo: yukino-app/yukino
-#   url: https://yukino-app.github.io/
+- name: Yukino
+  repo: yukino-app/yukino
 - name: Harmonoid
   repo: harmonoid/harmonoid
 - name: Ubuntu Desktop Installer
@@ -38,3 +37,5 @@
 - name: Color Studio
   description: An app that helps making coherent and accessible color themes.
   repo: bernaferrari/color-studio
+- name: jellyflut
+  repo: Thomas-Sohier/jellyflut
