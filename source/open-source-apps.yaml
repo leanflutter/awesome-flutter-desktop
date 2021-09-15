@@ -39,3 +39,5 @@
   repo: bernaferrari/color-studio
 - name: jellyflut
   repo: Thomas-Sohier/jellyflut
+- name: Leaflet
+  repo: PotatoProject/Leaflet
