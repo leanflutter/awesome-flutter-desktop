@@ -74,3 +74,5 @@
   repo: YehudaKremer/msix
 - name: libwinmedia
   repo: harmonoid/libwinmedia
+- name: native_context_menu
+  repo: lesnitsky/native_context_menu
