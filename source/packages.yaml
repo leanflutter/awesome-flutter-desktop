@@ -76,3 +76,5 @@
   repo: harmonoid/libwinmedia
 - name: native_context_menu
   repo: lesnitsky/native_context_menu
+- name: screen_text_extractor
+  repo: leanflutter/screen_text_extractor
