@@ -78,3 +78,5 @@
   repo: lesnitsky/native_context_menu
 - name: screen_text_extractor
   repo: leanflutter/screen_text_extractor
+- name: flutter_js
+  repo: abner/flutter_js
