@@ -41,3 +41,5 @@
   repo: Thomas-Sohier/jellyflut
 - name: Leaflet
   repo: PotatoProject/Leaflet
+- name: BlueBubbles
+  repo: BlueBubblesApp/bluebubbles-app
