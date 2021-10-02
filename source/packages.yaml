@@ -80,3 +80,5 @@
   repo: leanflutter/screen_text_extractor
 - name: flutter_js
   repo: abner/flutter_js
+- name: win_toast
+  repo: MixinNetwork/flutter-plugins
