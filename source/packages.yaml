@@ -82,3 +82,5 @@
   repo: abner/flutter_js
 - name: win_toast
   repo: MixinNetwork/flutter-plugins
+- name: quick_breakpad
+  repo: woodemi/quick_breakpad
