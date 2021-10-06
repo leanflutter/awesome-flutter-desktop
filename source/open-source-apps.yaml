@@ -43,3 +43,5 @@
   repo: PotatoProject/Leaflet
 - name: BlueBubbles
   repo: BlueBubblesApp/bluebubbles-app
+- name: Pangolin Desktop
+  repo: dahliaOS/pangolin_desktop
