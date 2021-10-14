@@ -1,0 +1,212 @@
+name: awesome-flutter-desktop
+description: A curated list of awesome things related to Flutter desktop.
+categories:
+  - id: packages
+    name: Packages
+  - id: projects
+    name: Projects
+tags:
+  - id: uikit
+    name: UIKit
+  - id: media
+    name: Media
+entities:
+  # PACKAGES
+  - pub_id: hotkey_manager
+    github_id: leanflutter/hotkey_manager
+    category: packages
+  - pub_id: tray_manager
+    github_id: leanflutter/tray_manager
+    category: packages
+  - pub_id: window_manager
+    github_id: leanflutter/window_manager
+    category: packages
+  - pub_id: dart_vlc
+    github_id: alexmercerind/dart_vlc
+    category: packages
+  - pub_id: desktop_window
+    github_id: mix1009/desktop_window
+    category: packages
+  - pub_id: bitsdojo_window
+    github_id: bitsdojo/bitsdojo_window
+    category: packages
+  - pub_id: system_tray
+    github_id: antler119/system_tray
+    category: packages
+  - pub_id: protocol_registry
+    github_id: zyrouge/dart_protocol_registry
+    category: packages
+  - pub_id: global_shortcuts
+    github_id: defuncart/global_shortcuts
+    category: packages
+  - pub_id: quick_blue
+    github_id: woodemi/quick_blue
+    category: packages
+  - pub_id: quick_notify
+    github_id: woodemi/quick_notify
+    category: packages
+  - pub_id: quick_usb
+    github_id: woodemi/quick_usb
+    category: packages
+  - pub_id: quick_scanner
+    github_id: woodemi/quick_scanner
+    category: packages
+  - pub_id: biometric_storage
+    github_id: authpass/biometric_storage
+    category: packages
+  - pub_id: battery_plus
+    github_id: fluttercommunity/plus_plugins
+    category: packages
+  - pub_id: connectivity_plus
+    github_id: fluttercommunity/plus_plugins
+    category: packages
+  - pub_id: device_info_plus
+    github_id: fluttercommunity/plus_plugins
+    category: packages
+  - pub_id: network_info_plus
+    github_id: fluttercommunity/plus_plugins
+    category: packages
+  - pub_id: package_info_plus
+    github_id: fluttercommunity/plus_plugins
+    category: packages
+  - pub_id: share_plus
+    github_id: fluttercommunity/plus_plugins
+    category: packages
+  - pub_id: flutter_acrylic
+    github_id: alexmercerind/flutter_acrylic
+    category: packages
+  - pub_id: nativeshell
+    github_id: nativeshell/nativeshell
+    category: packages
+  - pub_id: flutter_media_metadata
+    github_id: harmonoid/flutter_media_metadata
+    category: packages
+  - pub_id: desktoasts
+    github_id: alexmercerind/desktoasts
+    category: packages
+  - pub_id: gtk
+    github_id: prateekmedia/gtk-flutter
+    category: packages
+  - pub_id: window_decorations
+    github_id: prateekmedia/window_decorations
+    category: packages
+  - pub_id: macos_ui
+    github_id: GroovinChip/macos_ui
+    category: packages
+  - pub_id: flutter95
+    github_id: miquelbeltran/flutter95
+    category: packages
+  - pub_id: chicago
+    github_id: tvolkert/chicago
+    category: packages
+  - pub_id: fluent_ui
+    github_id: bdlukaa/fluent_ui
+    category: packages
+  - pub_id: win32
+    github_id: timsneath/win32
+    category: packages
+  - pub_id: dbus
+    github_id: canonical/dbus.dart
+    category: packages
+  - pub_id: yaru
+    github_id: ubuntu/yaru.dart
+    category: packages
+  - pub_id: screen_retriever
+    github_id: leanflutter/screen_retriever
+    category: packages
+  - pub_id: desktop_drop
+    github_id: MixinNetwork/flutter-plugins
+    category: packages
+  - pub_id: squirrel
+    github_id: anaisbetts/squirrel-flutter
+    category: packages
+  - pub_id: msix
+    github_id: YehudaKremer/msix
+    category: packages
+  - pub_id: libwinmedia
+    github_id: harmonoid/libwinmedia
+    category: packages
+  - pub_id: native_context_menu
+    github_id: lesnitsky/native_context_menu
+    category: packages
+  - pub_id: screen_text_extractor
+    github_id: leanflutter/screen_text_extractor
+    category: packages
+  - pub_id: flutter_js
+    github_id: abner/flutter_js
+    category: packages
+  - pub_id: win_toast
+    github_id: MixinNetwork/flutter-plugins
+    category: packages
+  - pub_id: quick_breakpad
+    github_id: woodemi/quick_breakpad
+    category: packages
+  # PROJECTS
+  - name: Biyi (比译)
+    homepage: https://biyidev.com/
+    github_id: biyidev/biyi_app
+    category: projects
+  - name: AuthPass
+    homepage: https://authpass.app/
+    github_id: authpass/authpass
+    category: projects
+  - name: flutter_blossom
+    homepage: https://flutter-blossom.github.io/
+    github_id: flutter-blossom/flutter_blossom
+    category: projects
+  - name: Invoice Ninja
+    github_id: invoiceninja/admin-portal
+    category: projects
+  - name: Yukino
+    github_id: yukino-app/yukino
+    category: projects
+  - name: Harmonoid
+    github_id: harmonoid/harmonoid
+    category: projects
+  - name: Ubuntu Desktop Installer
+    description: A modern implementation of the Ubuntu Desktop installer, using subiquity as a backend and Flutter for the UI.
+    github_id: canonical/ubuntu-desktop-installer
+    category: projects
+  - name: AppImage Pool
+    description: Simple and modern AppImageHub Client for Linux desktop.
+    github_id: prateekmedia/appimagepool
+    category: projects
+  - name: FluTube
+    description: Youtube video client + downloader made using flutter for mobile and desktop.
+    github_id: prateekmedia/flutube
+    category: projects
+  - name: Sharik
+    description: Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
+    github_id: marchellodev/sharik
+    category: projects
+  - name: Flutter Folio
+    homepage: https://flutter.gskinner.com/folio/
+    github_id: gskinnerTeam/flutter-folio
+    category: projects
+  - name: Flokk
+    homepage: https://flutter.gskinner.com/flokk/
+    github_id: gskinnerTeam/flokk
+    category: projects
+  - name: Cash Balancer
+    description: An asset allocation app for managing cash accross different wallets.
+    github_id: bernaferrari/CashBalancer
+    category: projects
+  - name: Color Studio
+    description: An app that helps making coherent and accessible color themes.
+    github_id: bernaferrari/color-studio
+    category: projects
+  - name: jellyflut
+    github_id: Thomas-Sohier/jellyflut
+    category: projects
+  - name: Leaflet
+    github_id: PotatoProject/Leaflet
+    category: projects
+  - name: BlueBubbles
+    github_id: BlueBubblesApp/bluebubbles-app
+    category: projects
+  - name: Pangolin Desktop
+    github_id: dahliaOS/pangolin_desktop
+    category: projects
+  - name: Flutter Installer
+    github_id: YazeedAlKhalaf/Flutter_Installer
+    category: projects
