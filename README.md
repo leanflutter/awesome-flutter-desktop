@@ -26,7 +26,6 @@ A curated list of awesome things related to Flutter desktop.
 - [battery_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for accessing information about the battery state(full, charging, discharging).
 - [biometric_storage](https://github.com/authpass/biometric_storage) - Secure Storage: Encrypted data store optionally secured by biometric lock with support
 for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorage).
-
 - [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) - A package to help with creating custom windows with Flutter desktop (custom border, titlebar and minimize/maximize/close buttons) and common desktop window operations (show/hide/position on screen) for Windows and macOS
 - [chicago](https://github.com/tvolkert/chicago) - The Chicago widget set is an alternate design language for Flutter designed for desktop (keyboard and mouse) form factors. It is based on Apache Pivot.
 - [connectivity_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering the state of the network (WiFi & mobile/cellular) connectivity on Android and iOS.
@@ -72,7 +71,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 ## Projects
 - [AppImage Pool](https://github.com/prateekmedia/appimagepool) - A simple, modern AppImageHub Client, powered by flutter.
 - [AuthPass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
-- [Biyi (比译)](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in dart / Flutter. 
+- [Biyi (比译)](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in dart / Flutter.
 - [BlueBubbles](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [Cash Balancer](https://github.com/bernaferrari/CashBalancer) - It is too hard to balance money across different assets and accounts.
 - [Color Studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help.
