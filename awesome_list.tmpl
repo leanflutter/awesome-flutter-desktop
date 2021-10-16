@@ -1,4 +1,4 @@
 {% for category in categories %}
 ## {{ category.name }}
-{% for entity in entities %}{% if entity.category == category.id %}- [{{ entity.name }}](https://github.com/{{ entity.github_id }}) - {{ entity.description }}
+{% for entity in entities %}{% if entity.category == category.id %}- [{{ entity.name }}](https://github.com/{{ entity.github_id }}) - {{ entity.description }} {% if entity.livepreview_url != blank %}([Live Preview]({{ entity.livepreview_url }})){% endif %}
 {% endif %}{% endfor %}{% endfor %}

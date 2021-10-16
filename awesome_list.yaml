@@ -94,6 +94,7 @@ entities:
     category: packages
   - pub_id: macos_ui
     github_id: GroovinChip/macos_ui
+    livepreview_url: https://groovinchip.github.io/macos_ui/
     category: packages
   - pub_id: flutter95
     github_id: miquelbeltran/flutter95
@@ -103,6 +104,7 @@ entities:
     category: packages
   - pub_id: fluent_ui
     github_id: bdlukaa/fluent_ui
+    livepreview_url: https://bdlukaa.github.io/fluent_ui/
     category: packages
   - pub_id: win32
     github_id: timsneath/win32
@@ -158,6 +160,7 @@ entities:
     category: projects
   - name: Invoice Ninja
     github_id: invoiceninja/admin-portal
+    livepreview_url: https://demo.invoiceninja.com/#/
     category: projects
   - name: Yukino
     github_id: yukino-app/yukino
@@ -188,14 +191,17 @@ entities:
   - name: Flokk
     homepage: https://flutter.gskinner.com/flokk/
     github_id: gskinnerTeam/flokk
+    livepreview_url: https://flokk.app/
     category: projects
   - name: Cash Balancer
     description: An asset allocation app for managing cash accross different wallets.
     github_id: bernaferrari/CashBalancer
+    livepreview_url: https://bernaferrari.github.io/CashBalancer/
     category: projects
   - name: Color Studio
     description: An app that helps making coherent and accessible color themes.
     github_id: bernaferrari/color-studio
+    livepreview_url: https://bernaferrari.github.io/color-studio/
     category: projects
   - name: jellyflut
     github_id: Thomas-Sohier/jellyflut
@@ -208,6 +214,7 @@ entities:
     category: projects
   - name: Pangolin Desktop
     github_id: dahliaOS/pangolin_desktop
+    livepreview_url: https://web.dahliaos.io/
     category: projects
   - name: Flutter Installer
     github_id: YazeedAlKhalaf/Flutter_Installer
