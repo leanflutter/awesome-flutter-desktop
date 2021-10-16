@@ -14,7 +14,7 @@ A curated list of awesome things related to Flutter desktop.
 - [awesome-flutter-desktop](#awesome-flutter-desktop)
   - [Packages](#packages)
   - [Projects](#projects)
-  - [Discussion](#discussion)
+  - [Related](#related)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -89,16 +89,13 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [flutter_blossom](https://github.com/flutter-blossom/flutter_blossom) - The no code editor with the full power of @flutter🌸
 - [jellyflut](https://github.com/Thomas-Sohier/jellyflut) - Just a jellyfin client made in flutter (side project quality code)
 
+## Related
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+- [awesome-flutter-linux](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects.
+- [awesome-flutter-mobile](https://github.com/leanflutter/awesome-flutter-mobile) - A curated list of awesome things related to Flutter mobile.
+
 
 <!-- AWESOME_LIST_MAKER -->
-
-## Discussion
-
-> Welcome to join the discussion group to share your suggestions and ideas with me.
-
-- WeChat Group 请添加我的微信 `lijy91`，并备注 `LeanFlutter`
-- [QQ Group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
-- [Telegram Group](https://t.me/leanflutter)
 
 ## Contribution
 
@@ -107,5 +104,3 @@ Please make sure to read the [Contributing Guide](./CONTRIBUTING.md) before maki
 ## License
 
 [MIT](./LICENSE)
-
-Copyright (c) 2021 LiJianying <lijy91@foxmail.com>

@@ -5,6 +5,8 @@ categories:
     name: Packages
   - id: projects
     name: Projects
+  - id: related
+    name: Related
 tags:
   - id: uikit
     name: UIKit
@@ -210,3 +212,13 @@ entities:
   - name: Flutter Installer
     github_id: YazeedAlKhalaf/Flutter_Installer
     category: projects
+  # RELATED
+  - name: awesome-flutter-mobile
+    github_id: leanflutter/awesome-flutter-mobile
+    category: related
+  - name: awesome-flutter-linux
+    github_id: jpnurmi/awesome-flutter-linux
+    category: related
+  - name: awesome-flutter
+    github_id: Solido/awesome-flutter
+    category: related

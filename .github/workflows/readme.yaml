@@ -1,0 +1,22 @@
+name: readme
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: dart-lang/setup-dart@v1
+      - run: dart pub global activate --source git https://github.com/leanflutter/awesome_list_maker
+      - run: awesome_list_maker -o awesome_list.yaml
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - uses: actions-js/push@master
+        with:
+          github_token: ${{secrets.GITHUB_TOKEN}}
+          author_email: 'awesome-flutter-desktop@leanflutter.org'
+          author_name: 'Awesome Flutter Desktop'
+          message: 'Update README.md'

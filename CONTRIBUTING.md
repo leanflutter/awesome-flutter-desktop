@@ -4,7 +4,8 @@ Before submitting your contribution, please make sure to take a moment and read 
 
 ## Pull Request Guidelines
 
-- Add content to `./awesome_list.yaml` file and DO NOT edit `README.md` file.
+| **NOTE:** Do not edit or commit `README.md`. Add new entries to `awesome_list.yaml`. |
+| ------------------------------------------------------------------------------------ |
 
 ### Add Package
 

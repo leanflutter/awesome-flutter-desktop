@@ -1,0 +1,14 @@
+name: changes
+
+on:
+  pull_request:
+    paths: [ README.md ]
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: thollander/actions-comment-pull-request@main
+        with:
+          message: 'Do not edit `README.md`. Add new entries to `awesome_list.yaml`.'
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
