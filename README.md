@@ -46,7 +46,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [libwinmedia](https://github.com/harmonoid/libwinmedia) - A cross-platform media playback library for C/C++ & Flutter with good number of features.
 - [macos_ui](https://github.com/GroovinChip/macos_ui) - Flutter widgets and themes implementing the current macOS design language.
 - [msix](https://github.com/YehudaKremer/msix) - Create and sign Msix installer for flutter windows-build files.
-- [native_context_menu](https://github.com/lesnitsky/native_context_menu) - Native context menu for flutter apps
+- [native_context_menu](https://github.com/lesnitsky/native_context_menu) - Provides a native context menu for flutter applications. Most useful on desktop.
 - [nativeshell](https://github.com/nativeshell/nativeshell) - NativeShell Dart API. Used to interact with NativeShell platform code.
 - [network_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering information (e.g. WiFi details) of the network.
 - [package_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for querying information about the application package, such as CFBundleVersion on iOS or versionCode on Android.
@@ -85,7 +85,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer) - 
-- [Yukino](https://github.com/yukino-app/yukino) - [WIP] Yukino lets you read manga or stream anime ad-free from multiple sources for free! Available for Windows, Linux, and Android.
+- [Yukino](https://github.com/yukino-app/yukino) - ❄️ An extension based Anime & Manga client.
 - [flutter_blossom](https://github.com/flutter-blossom/flutter_blossom) - The no code editor with the full power of @flutter🌸
 - [jellyflut](https://github.com/Thomas-Sohier/jellyflut) - Just a jellyfin client made in flutter (side project quality code)
 
