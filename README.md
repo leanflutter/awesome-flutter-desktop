@@ -45,7 +45,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [hotkey_manager](https://github.com/leanflutter/hotkey_manager) - This plugin allows Flutter desktop apps to defines system/inapp wide hotkey (i.e. shortcut). 
 - [libwinmedia](https://github.com/harmonoid/libwinmedia) - A cross-platform media playback library for C/C++ & Flutter with good number of features. 
 - [macos_ui](https://github.com/GroovinChip/macos_ui) - Flutter widgets and themes implementing the current macOS design language. ([Live Preview](https://groovinchip.github.io/macos_ui/))
-- [msix](https://github.com/YehudaKremer/msix) - Create and sign Msix installer for flutter windows-build files. 
+- [msix](https://github.com/YehudaKremer/msix) - A command-line tool that create Msix installer from your flutter windows-build files. 
 - [native_context_menu](https://github.com/lesnitsky/native_context_menu) - Provides a native context menu for flutter applications. Most useful on desktop. 
 - [nativeshell](https://github.com/nativeshell/nativeshell) - NativeShell Dart API. Used to interact with NativeShell platform code. 
 - [network_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering information (e.g. WiFi details) of the network. 
@@ -65,7 +65,8 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
 - [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a plugin help flutter app show toast on windows platform. 
 - [window_decorations](https://github.com/prateekmedia/window_decorations) - A package which provides most of the window decorations from linux themes. 
-- [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter **desktop** apps to resizing and repositioning the window. 
+- [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
+- [windows_taskbar](https://github.com/alexmercerind/windows_taskbar) - Flutter plugin serving utilities related to Windows taskbar. 
 - [yaru](https://github.com/ubuntu/yaru.dart) - Ubuntu Yaru Style - Distinct look and feel of the Ubuntu Desktop 
 
 ## Projects
