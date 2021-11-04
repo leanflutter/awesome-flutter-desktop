@@ -148,6 +148,9 @@ entities:
   - pub_id: windows_taskbar
     github_id: alexmercerind/windows_taskbar
     category: packages
+  - pub_id: launch_at_login
+    github_id: maxisme/launch_at_login
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
