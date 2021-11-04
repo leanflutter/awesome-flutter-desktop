@@ -37,12 +37,13 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [device_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin providing detailed information about the device (make, model, etc.), and Android or iOS version the app is running on. 
 - [fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Windows UI in Flutter. Based on the official documentation ([Live Preview](https://bdlukaa.github.io/fluent_ui/))
 - [flutter95](https://github.com/miquelbeltran/flutter95) - Windows95 UI components for Flutter apps. Bring back the nostalgic look and feel of old operating systems with this set of UI components ready to use. 
-- [flutter_acrylic](https://github.com/alexmercerind/flutter_acrylic) - Window blur & transparency effects for Flutter on Windows & Linux. 
+- [flutter_acrylic](https://github.com/alexmercerind/flutter_acrylic) - Window acrylic, mica & transparency effects for Flutter on Windows & Linux. 
 - [flutter_js](https://github.com/abner/flutter_js) - A Javascript engine to use with flutter. It uses Quickjs on Android and JavascriptCore on IOS 
 - [flutter_media_metadata](https://github.com/harmonoid/flutter_media_metadata) - A Flutter plugin to read metadata of media files. 
 - [global_shortcuts](https://github.com/defuncart/global_shortcuts) - A macOS plugin which can register a callback for a global keyboard shortcut. 
 - [gtk](https://github.com/prateekmedia/gtk-flutter) - Implements GTK Widgets, themes and titlebar buttons in Flutter. Based on the GNOME HIG 
 - [hotkey_manager](https://github.com/leanflutter/hotkey_manager) - This plugin allows Flutter desktop apps to defines system/inapp wide hotkey (i.e. shortcut). 
+- [launch_at_login](https://github.com/maxisme/launch_at_login) - A new flutter plugin project. 
 - [libwinmedia](https://github.com/harmonoid/libwinmedia) - A cross-platform media playback library for C/C++ & Flutter with good number of features. 
 - [macos_ui](https://github.com/GroovinChip/macos_ui) - Flutter widgets and themes implementing the current macOS design language. ([Live Preview](https://groovinchip.github.io/macos_ui/))
 - [msix](https://github.com/YehudaKremer/msix) - A command-line tool that create Msix installer from your flutter windows-build files. 
