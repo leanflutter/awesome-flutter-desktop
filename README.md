@@ -81,14 +81,13 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [FluTube](https://github.com/prateekmedia/flutube) - Youtube video downloader made using flutter. 
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. 
 - [Flutter Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer) - Flutter Installer is an installer for Flutter built with Flutter 💙😎✌ 
-- [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play local music & YouTube music. Distributes music into albums & artists. Has playlists & lyrics. 
+- [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play local music & YouTube music. Distributes music into albums & artists. Has playlists & lyrics. Windows + Linux + Android. 
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja client built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
 - [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter. ([Live Preview](https://web.dahliaos.io/))
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot 
 - [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer) -  
 - [Yukino](https://github.com/yukino-app/yukino) - ❄️ An extension based Anime & Manga client. 
-- [flutter_blossom](https://github.com/flutter-blossom/flutter_blossom) - The no code editor with the full power of @flutter🌸 
 - [jellyflut](https://github.com/Thomas-Sohier/jellyflut) - Just a jellyfin client made in flutter (side project quality code) 
 - [lumi](https://github.com/rootasjey/lumi) - Philips Hue app to control lights and sensors 
 
