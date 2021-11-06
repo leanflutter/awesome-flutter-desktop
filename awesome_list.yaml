@@ -160,10 +160,10 @@ entities:
     homepage: https://authpass.app/
     github_id: authpass/authpass
     category: projects
-  - name: flutter_blossom
-    homepage: https://flutter-blossom.github.io/
-    github_id: flutter-blossom/flutter_blossom
-    category: projects
+  # - name: flutter_blossom
+  #   homepage: https://flutter-blossom.github.io/
+  #   github_id: flutter-blossom/flutter_blossom
+  #   category: projects
   - name: Invoice Ninja
     github_id: invoiceninja/admin-portal
     livepreview_url: https://demo.invoiceninja.com/#/
