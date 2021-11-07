@@ -151,6 +151,9 @@ entities:
   - pub_id: launch_at_login
     github_id: maxisme/launch_at_login
     category: packages
+  - pub_id: launch_at_startup
+    github_id: leanflutter/launch_at_startup
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
