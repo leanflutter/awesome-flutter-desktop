@@ -44,6 +44,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [gtk](https://github.com/prateekmedia/gtk-flutter) - Implements GTK Widgets, themes and titlebar buttons in Flutter. Based on the GNOME HIG 
 - [hotkey_manager](https://github.com/leanflutter/hotkey_manager) - This plugin allows Flutter desktop apps to defines system/inapp wide hotkey (i.e. shortcut). 
 - [launch_at_login](https://github.com/maxisme/launch_at_login) - A new flutter plugin project. 
+- [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - This plugin allows Flutter desktop apps to Auto launch your app on startup / login. 
 - [libwinmedia](https://github.com/harmonoid/libwinmedia) - A cross-platform media playback library for C/C++ & Flutter with good number of features. 
 - [macos_ui](https://github.com/GroovinChip/macos_ui) - Flutter widgets and themes implementing the current macOS design language. ([Live Preview](https://groovinchip.github.io/macos_ui/))
 - [msix](https://github.com/YehudaKremer/msix) - A command-line tool that create Msix installer from your flutter windows-build files. 
