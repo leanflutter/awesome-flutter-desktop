@@ -91,6 +91,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Yukino](https://github.com/yukino-app/yukino) - ❄️ An extension based Anime & Manga client. 
 - [jellyflut](https://github.com/Thomas-Sohier/jellyflut) - Just a jellyfin client made in flutter (side project quality code) 
 - [lumi](https://github.com/rootasjey/lumi) - Philips Hue app to control lights and sensors 
+- [quickgui](https://github.com/quickgui/quickgui) -  
 
 ## Related
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 
