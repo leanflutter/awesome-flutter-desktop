@@ -231,6 +231,9 @@ entities:
   - name: lumi
     github_id: rootasjey/lumi
     category: projects
+  - name: quickgui
+    github_id: quickgui/quickgui
+    category: projects
   # RELATED
   - name: awesome-flutter-mobile
     github_id: leanflutter/awesome-flutter-mobile
