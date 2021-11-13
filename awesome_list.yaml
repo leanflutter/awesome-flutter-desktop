@@ -154,6 +154,9 @@ entities:
   - pub_id: launch_at_startup
     github_id: leanflutter/launch_at_startup
     category: packages
+  - pub_id: platform_device_id
+    github_id: BestBurning/platform_device_id
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
