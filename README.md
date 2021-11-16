@@ -90,6 +90,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot 
 - [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer) -  
 - [Yukino](https://github.com/yukino-app/yukino) - ❄️ An extension based Anime & Manga client. 
+- [appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. 
 - [jellyflut](https://github.com/Thomas-Sohier/jellyflut) - Just a jellyfin client made in flutter (side project quality code) 
 - [lumi](https://github.com/rootasjey/lumi) - Philips Hue app to control lights and sensors 
 - [quickgui](https://github.com/quickgui/quickgui) -  
