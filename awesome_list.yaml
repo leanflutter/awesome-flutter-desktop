@@ -237,6 +237,9 @@ entities:
   - name: quickgui
     github_id: quickgui/quickgui
     category: projects
+  - name: appflowy
+    github_id: AppFlowy-IO/appflowy
+    category: projects
   # RELATED
   - name: awesome-flutter-mobile
     github_id: leanflutter/awesome-flutter-mobile
