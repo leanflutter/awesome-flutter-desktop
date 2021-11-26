@@ -87,6 +87,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play local music & YouTube music. Distributes music into albums & artists. Has playlists & lyrics. Windows + Linux + Android. 
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja client built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
+- [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
 - [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter. ([Live Preview](https://web.dahliaos.io/))
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot 
 - [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer) -  
