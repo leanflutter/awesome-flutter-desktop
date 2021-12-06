@@ -33,6 +33,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [dbus](https://github.com/canonical/dbus.dart) - A native Dart implementation of the D-Bus message bus client. This package allows Dart applications to directly access services on the Linux desktop. 
 - [desktoasts](https://github.com/alexmercerind/desktoasts) - A plugin to show native toasts on Windows. 
 - [desktop_drop](https://github.com/MixinNetwork/flutter-plugins) - A plugin which allows user dragging files to your flutter desktop applications. 
+- [desktop_webview_window](https://github.com/MixinNetwork/flutter-plugins) - Show a webview window on your flutter deksktop application. 
 - [desktop_window](https://github.com/mix1009/desktop_window) - Flutter desktop plugin(macOS/Linux/Windows) to get and change window size. 
 - [device_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin providing detailed information about the device (make, model, etc.), and Android or iOS version the app is running on. 
 - [fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Windows UI in Flutter. Based on the official documentation ([Live Preview](https://bdlukaa.github.io/fluent_ui/))
@@ -46,12 +47,14 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [launch_at_login](https://github.com/maxisme/launch_at_login) - A new flutter plugin project. 
 - [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - This plugin allows Flutter desktop apps to Auto launch on startup / login. 
 - [libwinmedia](https://github.com/harmonoid/libwinmedia) - A cross-platform media playback library for C/C++ & Flutter with good number of features. 
+- [local_notifier](https://github.com/leanflutter/local_notifier) - This plugin allows Flutter desktop apps to notify local notifications. 
 - [macos_ui](https://github.com/GroovinChip/macos_ui) - Flutter widgets and themes implementing the current macOS design language. ([Live Preview](https://groovinchip.github.io/macos_ui/))
 - [msix](https://github.com/YehudaKremer/msix) - A command-line tool that create Msix installer from your flutter windows-build files. 
 - [native_context_menu](https://github.com/lesnitsky/native_context_menu) - Provides a native context menu for flutter applications. Most useful on desktop. 
 - [nativeshell](https://github.com/nativeshell/nativeshell) - NativeShell Dart API. Used to interact with NativeShell platform code. 
 - [network_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering information (e.g. WiFi details) of the network. 
 - [package_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for querying information about the application package, such as CFBundleVersion on iOS or versionCode on Android. 
+- [pasteboard](https://github.com/MixinNetwork/flutter-plugins) - A flutter plugin which could read image,files from clipboard and write files to clipboard. 
 - [platform_device_id](https://github.com/BestBurning/platform_device_id) - You can get device id from platform - linux/mac/windows/android/ios/web. 
 - [protocol_registry](https://github.com/zyrouge/dart_protocol_registry) - Register/query/remove URI Schemes without hassle. Available for Windows and Linux. 
 - [quick_blue](https://github.com/woodemi/quick_blue) - A new flutter plugin project. 
@@ -100,7 +103,6 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 ## Related
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 
 - [awesome-flutter-linux](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects. 
-- [awesome-flutter-mobile](https://github.com/leanflutter/awesome-flutter-mobile) - A curated list of awesome things related to Flutter mobile. 
 
 
 <!-- AWESOME_LIST_MAKER -->
