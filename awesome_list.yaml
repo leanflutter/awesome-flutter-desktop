@@ -160,6 +160,15 @@ entities:
   - pub_id: screen_capturer
     github_id: leanflutter/screen_capturer
     category: packages
+  - pub_id: local_notifier
+    github_id: leanflutter/local_notifier
+    category: packages
+  - pub_id: pasteboard
+    github_id: MixinNetwork/flutter-plugins
+    category: packages
+  - pub_id: desktop_webview_window
+    github_id: MixinNetwork/flutter-plugins
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
@@ -247,9 +256,6 @@ entities:
     github_id: odinapp/odin
     category: projects
   # RELATED
-  - name: awesome-flutter-mobile
-    github_id: leanflutter/awesome-flutter-mobile
-    category: related
   - name: awesome-flutter-linux
     github_id: jpnurmi/awesome-flutter-linux
     category: related
