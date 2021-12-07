@@ -169,6 +169,9 @@ entities:
   - pub_id: desktop_webview_window
     github_id: MixinNetwork/flutter-plugins
     category: packages
+  - pub_id: quick_breakpad
+    github_id: woodemi/quick_breakpad
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
