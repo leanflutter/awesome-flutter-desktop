@@ -59,6 +59,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [protocol_registry](https://github.com/zyrouge/dart_protocol_registry) - Register/query/remove URI Schemes without hassle. Available for Windows and Linux. 
 - [quick_blue](https://github.com/woodemi/quick_blue) - A new flutter plugin project. 
 - [quick_breakpad](https://github.com/woodemi/quick_breakpad) - A cross-platform flutter plugin for `C/C++/ObjC` crash report via Google Breakpad 
+- [quick_breakpad](https://github.com/woodemi/quick_breakpad) - A cross-platform flutter plugin for `C/C++/ObjC` crash report via Google Breakpad 
 - [quick_notify](https://github.com/woodemi/quick_notify) - A new flutter plugin project. 
 - [quick_scanner](https://github.com/woodemi/quick_scanner) - A new flutter plugin project. 
 - [quick_usb](https://github.com/woodemi/quick_usb) - A cross-platform USB plugin for Flutter 
