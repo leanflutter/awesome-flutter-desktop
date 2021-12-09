@@ -172,6 +172,12 @@ entities:
   - pub_id: quick_breakpad
     github_id: woodemi/quick_breakpad
     category: packages
+  - pub_id: just_audio
+    github_id: ryanheise/just_audio
+    category: packages
+  - pub_id: just_audio_libwinmedia
+    github_id: bdlukaa/just_audio_libwinmedia
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
