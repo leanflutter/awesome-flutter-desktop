@@ -44,6 +44,8 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [global_shortcuts](https://github.com/defuncart/global_shortcuts) - A macOS plugin which can register a callback for a global keyboard shortcut. 
 - [gtk](https://github.com/prateekmedia/gtk-flutter) - MOVED TO https://pub.dev/packages/libadwaita 
 - [hotkey_manager](https://github.com/leanflutter/hotkey_manager) - This plugin allows Flutter desktop apps to defines system/inapp wide hotkey (i.e. shortcut). 
+- [just_audio](https://github.com/ryanheise/just_audio) - A feature-rich audio player for Flutter. Loop, clip and concatenate any sound from any source (asset/file/URL/stream) in a variety of audio formats with gapless playback. 
+- [just_audio_libwinmedia](https://github.com/bdlukaa/just_audio_libwinmedia) - Libwinmedia implementation of just_audio. This implementation is endorsed and therefore doesn't require a direct dependency. 
 - [launch_at_login](https://github.com/maxisme/launch_at_login) - A new flutter plugin project. 
 - [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - This plugin allows Flutter desktop apps to Auto launch on startup / login. 
 - [libwinmedia](https://github.com/harmonoid/libwinmedia) - A cross-platform media playback library for C/C++ & Flutter with good number of features. 
