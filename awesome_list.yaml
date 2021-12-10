@@ -181,6 +181,9 @@ entities:
   - pub_id: flutter_platform_alert
     github_id: zonble/flutter_platform_alert
     category: packages
+  - pub_id: flutter_window_close
+    github_id: zonble/flutter_window_close
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
