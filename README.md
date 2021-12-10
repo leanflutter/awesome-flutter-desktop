@@ -42,6 +42,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [flutter_js](https://github.com/abner/flutter_js) - A Javascript engine to use with flutter. It uses Quickjs on Android and JavascriptCore on IOS 
 - [flutter_media_metadata](https://github.com/harmonoid/flutter_media_metadata) - A Flutter plugin to read metadata of media files. 
 - [flutter_platform_alert](https://github.com/zonble/flutter_platform_alert) - A plugin helps to call native API to play alert sound and show alert dialogs. For example, it bridges MessageBox and TaskDialogIndirect on Windows. 
+- [flutter_window_close](https://github.com/zonble/flutter_window_close) - Let your Flutter app has a chance to confirm if the user wants to close your app. 
 - [global_shortcuts](https://github.com/defuncart/global_shortcuts) - A macOS plugin which can register a callback for a global keyboard shortcut. 
 - [gtk](https://github.com/prateekmedia/gtk-flutter) - MOVED TO https://pub.dev/packages/libadwaita 
 - [hotkey_manager](https://github.com/leanflutter/hotkey_manager) - This plugin allows Flutter desktop apps to defines system/inapp wide hotkey (i.e. shortcut). 
