@@ -5,6 +5,8 @@ categories:
     name: Packages
   - id: projects
     name: Projects
+  - id: tools
+    name: Tools
   - id: related
     name: Related
 tags:
@@ -270,6 +272,11 @@ entities:
   - name: Odin
     github_id: odinapp/odin
     category: projects
+  # TOOLS
+  - name: flutter_distributor
+    github_id: leanflutter/flutter_distributor
+    description: A complete tool for packaging and publishing your Flutter apps.
+    category: tools
   # RELATED
   - name: awesome-flutter-linux
     github_id: jpnurmi/awesome-flutter-linux
