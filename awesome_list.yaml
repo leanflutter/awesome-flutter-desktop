@@ -272,6 +272,9 @@ entities:
   - name: Odin
     github_id: odinapp/odin
     category: projects
+  - name: Spotube
+    github_id: KRTirtho/spotube
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
