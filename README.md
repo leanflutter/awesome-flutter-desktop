@@ -84,7 +84,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 ## Projects
 - [AppImage Pool](https://github.com/prateekmedia/appimagepool) - A simple, modern AppImageHub Client, powered by flutter. 
 - [AuthPass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. 
-- [Biyi (比译)](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in dart / Flutter. 
+- [Biyi (比译)](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in Flutter. 
 - [BlueBubbles](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! 
 - [Cash Balancer](https://github.com/bernaferrari/CashBalancer) - It is too hard to balance money across different assets and accounts. ([Live Preview](https://bernaferrari.github.io/CashBalancer/))
 - [Color Studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help. ([Live Preview](https://bernaferrari.github.io/color-studio/))
@@ -98,6 +98,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
 - [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter. ([Live Preview](https://web.dahliaos.io/))
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot 
+- [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 desktop-client 🖥 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱 
 - [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer) -  
 - [Yukino](https://github.com/yukino-app/yukino) - ❄️ An extension based Anime & Manga client. 
 - [appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. 
