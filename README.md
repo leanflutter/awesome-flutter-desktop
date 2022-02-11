@@ -38,7 +38,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [device_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin providing detailed information about the device (make, model, etc.), and Android or iOS version the app is running on. 
 - [fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Windows UI in Flutter. Based on the official documentation ([Live Preview](https://bdlukaa.github.io/fluent_ui/))
 - [flutter95](https://github.com/miquelbeltran/flutter95) - Windows95 UI components for Flutter apps. Bring back the nostalgic look and feel of old operating systems with this set of UI components ready to use. 
-- [flutter_acrylic](https://github.com/alexmercerind/flutter_acrylic) - Window acrylic, mica & transparency effects for Flutter on Windows & Linux. 
+- [flutter_acrylic](https://github.com/alexmercerind/flutter_acrylic) - Window acrylic, mica & transparency effects for Flutter on Windows, macOS & Linux. 
 - [flutter_js](https://github.com/abner/flutter_js) - A Javascript engine to use with flutter. It uses Quickjs on Android and JavascriptCore on IOS 
 - [flutter_media_metadata](https://github.com/harmonoid/flutter_media_metadata) - A Flutter plugin to read metadata of media files. 
 - [flutter_platform_alert](https://github.com/zonble/flutter_platform_alert) - A plugin helps to call native API to play alert sound and show alert dialogs. For example, it bridges MessageBox and TaskDialogIndirect on Windows. 
@@ -71,12 +71,13 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) - This plugin allows Flutter desktop apps to extract text from screen. 
 - [share_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for sharing content via the platform share UI, using the ACTION_SEND intent on Android and UIActivityViewController on iOS. 
 - [squirrel](https://github.com/anaisbetts/squirrel-flutter) - Create installable desktop apps 
-- [system_tray](https://github.com/antler119/system_tray) - system_tray that makes it easy to customize tray and work with your Flutter desktop app window **on Windows, macOS and Linux**. 
+- [system_tray](https://github.com/antler119/system_tray) - system_tray that makes it easy to customize tray and work with your Flutter desktop app. 
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
 - [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
 - [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a plugin help flutter app show toast on windows platform. 
 - [window_decorations](https://github.com/prateekmedia/window_decorations) - A package which provides most of the window decorations from linux themes. 
 - [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
+- [windows_ocr](https://github.com/hamdikahloun/windows_ocr) - A new flutter plugin project. 
 - [windows_taskbar](https://github.com/alexmercerind/windows_taskbar) - Flutter plugin serving utilities related to Windows taskbar. 
 - [yaru](https://github.com/ubuntu/yaru.dart) - Ubuntu Yaru Style - Distinct look and feel of the Ubuntu Desktop 
 
@@ -91,7 +92,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [FluTube](https://github.com/prateekmedia/flutube) - Youtube video downloader made using flutter. 
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. 
 - [Flutter Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer) - Flutter Installer is an installer for Flutter built with Flutter 💙😎✌ 
-- [Harmonoid](https://github.com/harmonoid/harmonoid) - [WORK IN PROGRESS] 🎵 Elegant music app to play local music & YouTube music. Distributes music into albums & artists. Has playlists & lyrics. Windows + Linux + Android. 
+- [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library (+ YouTube support). Lyrics & Playlists. Windows + Linux + Android. 
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja client built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
 - [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
