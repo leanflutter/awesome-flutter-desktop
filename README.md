@@ -23,6 +23,7 @@ A curated list of awesome things related to Flutter desktop.
 <!-- AWESOME_LIST_MAKER -->
 
 ## Packages
+- [arna](https://github.com/MahanRahmati/Arna) - Arna Framework - A unique set of widgets for building applications with Flutter. 
 - [battery_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for accessing information about the battery state(full, charging, discharging). 
 - [biometric_storage](https://github.com/authpass/biometric_storage) - Secure Storage: Encrypted data store optionally secured by biometric lock with support
 for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorage). 
