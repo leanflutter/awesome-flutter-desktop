@@ -58,6 +58,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [native_context_menu](https://github.com/lesnitsky/native_context_menu) - Provides a native context menu for flutter applications. Most useful on desktop. 
 - [nativeshell](https://github.com/nativeshell/nativeshell) - NativeShell Dart API. Used to interact with NativeShell platform code. 
 - [network_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering information (e.g. WiFi details) of the network. 
+- [nsd](https://github.com/sebastianhaberey/nsd) - A Flutter plugin for network service discovery and registration (aka NSD / DNS-SD / Bonjour / mDNS). 
 - [package_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for querying information about the application package, such as CFBundleVersion on iOS or versionCode on Android. 
 - [pasteboard](https://github.com/MixinNetwork/flutter-plugins) - A flutter plugin which could read image,files from clipboard and write files to clipboard. 
 - [platform_device_id](https://github.com/BestBurning/platform_device_id) - You can get device id from platform - linux/mac/windows/android/ios/web. 
@@ -76,7 +77,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
 - [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
 - [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a plugin help flutter app show toast on windows platform. 
-- [window_decorations](https://github.com/prateekmedia/window_decorations) - A package which provides most of the window decorations from linux themes. 
+- [window_decorations](https://github.com/prateekmedia/window_decorations) - Deprecated, use https://pub.dev/packages/titlebar_buttons 
 - [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
 - [windows_ocr](https://github.com/hamdikahloun/windows_ocr) - A new flutter plugin project. 
 - [windows_taskbar](https://github.com/alexmercerind/windows_taskbar) - Flutter plugin serving utilities related to Windows taskbar. 
@@ -90,10 +91,10 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Cash Balancer](https://github.com/bernaferrari/CashBalancer) - It is too hard to balance money across different assets and accounts. ([Live Preview](https://bernaferrari.github.io/CashBalancer/))
 - [Color Studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help. ([Live Preview](https://bernaferrari.github.io/color-studio/))
 - [Flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter. ([Live Preview](https://flokk.app/))
-- [FluTube](https://github.com/prateekmedia/flutube) - Youtube video downloader made using flutter. 
+- [FluTube](https://github.com/prateekmedia/flutube) - Youtube client made using flutter 
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. 
 - [Flutter Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer) - Flutter Installer is an installer for Flutter built with Flutter 💙😎✌ 
-- [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library (+ YouTube support). Lyrics & Playlists. Windows + Linux + Android. 
+- [Harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube Music support. 
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja client built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
 - [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
@@ -101,7 +102,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot 
 - [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 desktop-client 🖥 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱 
 - [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer) -  
-- [Yukino](https://github.com/yukino-app/yukino) - ❄️ An extension based Anime & Manga client. 
+- [Yukino](https://github.com/yukino-app/yukino) - ❄️ [Discontinued] An extension based Anime & Manga client. 
 - [appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. 
 - [jellyflut](https://github.com/Thomas-Sohier/jellyflut) - Just a jellyfin client made in flutter (side project quality code) 
 - [lumi](https://github.com/rootasjey/lumi) - Philips Hue app to control lights and sensors 
