@@ -281,6 +281,9 @@ entities:
   - name: Spotube
     github_id: KRTirtho/spotube
     category: projects
+  - name: Drip
+    github_id: Spsden/Drip
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
