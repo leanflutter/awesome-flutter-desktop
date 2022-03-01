@@ -90,6 +90,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [BlueBubbles](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! 
 - [Cash Balancer](https://github.com/bernaferrari/CashBalancer) - It is too hard to balance money across different assets and accounts. ([Live Preview](https://bernaferrari.github.io/CashBalancer/))
 - [Color Studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help. ([Live Preview](https://bernaferrari.github.io/color-studio/))
+- [Drip](https://github.com/Spsden/Drip) - A Youtube Music client for Desktop. (in Development) 
 - [Flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter. ([Live Preview](https://flokk.app/))
 - [FluTube](https://github.com/prateekmedia/flutube) - Youtube client made using flutter 
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. 
