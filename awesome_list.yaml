@@ -188,6 +188,7 @@ entities:
     category: packages
   - pub_id: arna
     github_id: MahanRahmati/Arna
+    livepreview_url: https://mahanrahmati.github.io/arna_demo/
     category: packages
   - pub_id: nsd
     github_id: sebastianhaberey/nsd
