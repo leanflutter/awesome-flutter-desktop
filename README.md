@@ -23,7 +23,7 @@ A curated list of awesome things related to Flutter desktop.
 <!-- AWESOME_LIST_MAKER -->
 
 ## Packages
-- [arna](https://github.com/MahanRahmati/Arna) - Arna Framework - A unique set of widgets for building applications with Flutter. 
+- [arna](https://github.com/MahanRahmati/Arna) - Arna Framework - A unique set of widgets for building applications with Flutter. ([Live Preview](https://mahanrahmati.github.io/arna_demo/))
 - [battery_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for accessing information about the battery state(full, charging, discharging). 
 - [biometric_storage](https://github.com/authpass/biometric_storage) - Secure Storage: Encrypted data store optionally secured by biometric lock with support
 for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorage). 
@@ -52,7 +52,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [launch_at_login](https://github.com/maxisme/launch_at_login) - A new flutter plugin project. 
 - [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - This plugin allows Flutter desktop apps to Auto launch on startup / login. 
 - [libwinmedia](https://github.com/harmonoid/libwinmedia) - A cross-platform media playback library for C/C++ & Flutter with good number of features. 
-- [local_notifier](https://github.com/leanflutter/local_notifier) - This plugin allows Flutter desktop apps to notify local notifications. 
+- [local_notifier](https://github.com/leanflutter/local_notifier) - This plugin allows Flutter desktop apps to displaying local notifications. 
 - [macos_ui](https://github.com/GroovinChip/macos_ui) - Flutter widgets and themes implementing the current macOS design language. ([Live Preview](https://groovinchip.github.io/macos_ui/))
 - [msix](https://github.com/YehudaKremer/msix) - A command-line tool that create Msix installer from your flutter windows-build files. 
 - [native_context_menu](https://github.com/lesnitsky/native_context_menu) - Provides a native context menu for flutter applications. Most useful on desktop. 
@@ -63,9 +63,9 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [pasteboard](https://github.com/MixinNetwork/flutter-plugins) - A flutter plugin which could read image,files from clipboard and write files to clipboard. 
 - [platform_device_id](https://github.com/BestBurning/platform_device_id) - You can get device id from platform - linux/mac/windows/android/ios/web. 
 - [protocol_registry](https://github.com/zyrouge/dart_protocol_registry) - Register/query/remove URI Schemes without hassle. Available for Windows and Linux. 
-- [quick_blue](https://github.com/woodemi/quick_blue) - A new flutter plugin project. 
+- [quick_blue](https://github.com/woodemi/quick_blue) - A cross-platform BluetoothLE plugin for Flutter. 
 - [quick_breakpad](https://github.com/woodemi/quick_breakpad) - A cross-platform flutter plugin for `C/C++/ObjC` crash report via Google Breakpad 
-- [quick_notify](https://github.com/woodemi/quick_notify) - A new flutter plugin project. 
+- [quick_notify](https://github.com/woodemi/quick_notify) - A cross-platform (Android/iOS/Web/Windows/macOS/Linux) notification plugin for Flutter. 
 - [quick_scanner](https://github.com/woodemi/quick_scanner) - A new flutter plugin project. 
 - [quick_usb](https://github.com/woodemi/quick_usb) - A cross-platform USB plugin for Flutter 
 - [screen_capturer](https://github.com/leanflutter/screen_capturer) - This plugin allows Flutter desktop apps to capture screenshots. 
@@ -103,7 +103,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot 
 - [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 desktop-client 🖥 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱 
 - [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer) -  
-- [Yukino](https://github.com/yukino-app/yukino) - ❄️ [Discontinued] An extension based Anime & Manga client. 
+- [Yukino](https://github.com/yukino-app/yukino) - ❄️ [WIP] An extension based Anime & Manga client. 
 - [appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. 
 - [jellyflut](https://github.com/Thomas-Sohier/jellyflut) - Just a jellyfin client made in flutter (side project quality code) 
 - [lumi](https://github.com/rootasjey/lumi) - Philips Hue app to control lights and sensors 
