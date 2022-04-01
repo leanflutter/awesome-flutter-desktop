@@ -193,6 +193,12 @@ entities:
   - pub_id: nsd
     github_id: sebastianhaberey/nsd
     category: packages
+  - pub_id: auto_updater
+    github_id: leanflutter/auto_updater
+    category: packages
+  - pub_id: protocol_handler
+    github_id: leanflutter/protocol_handler
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
