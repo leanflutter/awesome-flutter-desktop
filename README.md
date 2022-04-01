@@ -24,6 +24,7 @@ A curated list of awesome things related to Flutter desktop.
 
 ## Packages
 - [arna](https://github.com/MahanRahmati/Arna) - Arna Framework - A unique set of widgets for building applications with Flutter. ([Live Preview](https://mahanrahmati.github.io/arna_demo/))
+- [auto_updater](https://github.com/leanflutter/auto_updater) - This plugin allows Flutter desktop apps to automatically update themselves (based on sparkle and winsparkle). 
 - [battery_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for accessing information about the battery state(full, charging, discharging). 
 - [biometric_storage](https://github.com/authpass/biometric_storage) - Secure Storage: Encrypted data store optionally secured by biometric lock with support
 for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorage). 
@@ -62,6 +63,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [package_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for querying information about the application package, such as CFBundleVersion on iOS or versionCode on Android. 
 - [pasteboard](https://github.com/MixinNetwork/flutter-plugins) - A flutter plugin which could read image,files from clipboard and write files to clipboard. 
 - [platform_device_id](https://github.com/BestBurning/platform_device_id) - You can get device id from platform - linux/mac/windows/android/ios/web. 
+- [protocol_handler](https://github.com/leanflutter/protocol_handler) - This plugin allows Flutter desktop apps to register and handle custom protocols (i.e. deep linking). 
 - [protocol_registry](https://github.com/zyrouge/dart_protocol_registry) - Register/query/remove URI Schemes without hassle. Available for Windows and Linux. 
 - [quick_blue](https://github.com/woodemi/quick_blue) - A cross-platform BluetoothLE plugin for Flutter. 
 - [quick_breakpad](https://github.com/woodemi/quick_breakpad) - A cross-platform flutter plugin for `C/C++/ObjC` crash report via Google Breakpad 
@@ -101,7 +103,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
 - [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter. ([Live Preview](https://web.dahliaos.io/))
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot 
-- [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 desktop-client 🖥 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱 
+- [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱 
 - [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer) -  
 - [Yukino](https://github.com/yukino-app/yukino) - ❄️ [WIP] An extension based Anime & Manga client. 
 - [appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. 
