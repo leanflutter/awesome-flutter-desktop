@@ -75,6 +75,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) - This plugin allows Flutter desktop apps to extract text from screen. 
 - [share_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for sharing content via the platform share UI, using the ACTION_SEND intent on Android and UIActivityViewController on iOS. 
 - [squirrel](https://github.com/anaisbetts/squirrel-flutter) - Create installable desktop apps 
+- [stockholm](https://github.com/serverpod/stockholm) - A collection of desktop-first widgets and themes designed to look and feel great on Mac and Windows. ([Live Preview](https://serverpod.dev/stockholm/))
 - [system_tray](https://github.com/antler119/system_tray) - system_tray that makes it easy to customize tray and work with your Flutter desktop app. 
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
 - [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
@@ -86,6 +87,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [yaru](https://github.com/ubuntu/yaru.dart) - Ubuntu Yaru Style - Distinct look and feel of the Ubuntu Desktop 
 
 ## Projects
+- [AirController](https://github.com/air-controller/air-controller-desktop) - A easy-to-use remote file manager  for Android. 
 - [AppImage Pool](https://github.com/prateekmedia/appimagepool) - A simple, modern AppImageHub Client, powered by flutter. 
 - [AuthPass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. 
 - [Biyi (比译)](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in Flutter. 
@@ -94,10 +96,10 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Color Studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help. ([Live Preview](https://bernaferrari.github.io/color-studio/))
 - [Drip](https://github.com/Spsden/Drip) - A Youtube Music client for Desktop. (in Development) 
 - [Flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter. ([Live Preview](https://flokk.app/))
-- [FluTube](https://github.com/prateekmedia/flutube) - Youtube client made using flutter 
+- [FluTube](https://github.com/prateekmedia/flutube) - Watch and download videos without ads 
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. 
 - [Flutter Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer) - Flutter Installer is an installer for Flutter built with Flutter 💙😎✌ 
-- [Harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube Music support. 
+- [Harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library & YouTube Music client. 
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja client built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
 - [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
