@@ -291,6 +291,10 @@ entities:
   - name: Drip
     github_id: Spsden/Drip
     category: projects
+    - name: AirController
+    homepage: https://github.com/air-controller/air-controller-desktop
+    github_id: air-controller/air-controller-desktop
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
