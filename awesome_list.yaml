@@ -199,6 +199,10 @@ entities:
   - pub_id: protocol_handler
     github_id: leanflutter/protocol_handler
     category: packages
+  - pub_id: stockholm
+    github_id: serverpod/stockholm
+    livepreview_url: https://serverpod.dev/stockholm/
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
@@ -290,6 +294,9 @@ entities:
     category: projects
   - name: Drip
     github_id: Spsden/Drip
+    category: projects
+  - name: AirController
+    github_id: air-controller/air-controller-desktop
     category: projects
   # TOOLS
   - name: flutter_distributor
