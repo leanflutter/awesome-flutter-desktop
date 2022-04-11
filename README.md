@@ -74,6 +74,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [screen_retriever](https://github.com/leanflutter/screen_retriever) - This plugin allows Flutter **desktop** apps to Retrieve information about screen size, displays, cursor position, etc. 
 - [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) - This plugin allows Flutter desktop apps to extract text from screen. 
 - [share_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for sharing content via the platform share UI, using the ACTION_SEND intent on Android and UIActivityViewController on iOS. 
+- [stockholm](https://github.com/serverpod/stockholm) - A collection of desktop-first widgets and themes designed to look and feel great on Mac and Windows. ([Live Preview](https://serverpod.dev/stockholm/)) 
 - [squirrel](https://github.com/anaisbetts/squirrel-flutter) - Create installable desktop apps 
 - [system_tray](https://github.com/antler119/system_tray) - system_tray that makes it easy to customize tray and work with your Flutter desktop app. 
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
