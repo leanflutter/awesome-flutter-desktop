@@ -34,6 +34,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Flutter media playback, broadcast, recording & chromecast library. Based on libVLC & libVLC++. 
 - [dbus](https://github.com/canonical/dbus.dart) - A native Dart implementation of the D-Bus message bus client. This package allows Dart applications to directly access services on the Linux desktop. 
 - [desktoasts](https://github.com/alexmercerind/desktoasts) - A plugin to show native toasts on Windows. 
+- [desktop_context_menu](https://github.com/rows/desktop_context_menu) - A plugin that opens a context menu on the cursor position. 
 - [desktop_drop](https://github.com/MixinNetwork/flutter-plugins) - A plugin which allows user dragging files to your flutter desktop applications. 
 - [desktop_webview_window](https://github.com/MixinNetwork/flutter-plugins) - Show a webview window on your flutter deksktop application. 
 - [desktop_window](https://github.com/mix1009/desktop_window) - Flutter desktop plugin(macOS/Linux/Windows) to get and change window size. 
@@ -63,7 +64,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [package_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for querying information about the application package, such as CFBundleVersion on iOS or versionCode on Android. 
 - [pasteboard](https://github.com/MixinNetwork/flutter-plugins) - A flutter plugin which could read image,files from clipboard and write files to clipboard. 
 - [platform_device_id](https://github.com/BestBurning/platform_device_id) - You can get device id from platform - linux/mac/windows/android/ios/web. 
-- [protocol_handler](https://github.com/leanflutter/protocol_handler) - This plugin allows Flutter desktop apps to register and handle custom protocols (i.e. deep linking). 
+- [protocol_handler](https://github.com/leanflutter/protocol_handler) - This plugin allows Flutter apps to register and handle custom protocols (i.e. deep linking). 
 - [protocol_registry](https://github.com/zyrouge/dart_protocol_registry) - Register/query/remove URI Schemes without hassle. Available for Windows and Linux. 
 - [quick_blue](https://github.com/woodemi/quick_blue) - A cross-platform BluetoothLE plugin for Flutter. 
 - [quick_breakpad](https://github.com/woodemi/quick_breakpad) - A cross-platform flutter plugin for `C/C++/ObjC` crash report via Google Breakpad 
@@ -87,7 +88,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [yaru](https://github.com/ubuntu/yaru.dart) - Ubuntu Yaru Style - Distinct look and feel of the Ubuntu Desktop 
 
 ## Projects
-- [AirController](https://github.com/air-controller/air-controller-desktop) - A easy-to-use remote file manager  for Android. 
+- [AirController](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter. 
 - [AppImage Pool](https://github.com/prateekmedia/appimagepool) - A simple, modern AppImageHub Client, powered by flutter. 
 - [AuthPass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. 
 - [Biyi (比译)](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in Flutter. 
@@ -99,7 +100,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [FluTube](https://github.com/prateekmedia/flutube) - Watch and download videos without ads 
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. 
 - [Flutter Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer) - Flutter Installer is an installer for Flutter built with Flutter 💙😎✌ 
-- [Harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library & YouTube Music client. 
+- [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library. YouTube Music client. Lyrics & Playlists. 
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja client built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
 - [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
