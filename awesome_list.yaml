@@ -203,6 +203,9 @@ entities:
     github_id: serverpod/stockholm
     livepreview_url: https://serverpod.dev/stockholm/
     category: packages
+  - pub_id: desktop_context_menu
+    github_id: rows/desktop_context_menu
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
