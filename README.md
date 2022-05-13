@@ -31,7 +31,8 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) - A package to help with creating custom windows with Flutter desktop (custom border, titlebar and minimize/maximize/close buttons) and common desktop window operations (show/hide/position on screen) for Windows and macOS 
 - [chicago](https://github.com/tvolkert/chicago) - The Chicago widget set is an alternate design language for Flutter designed for desktop (keyboard and mouse) form factors. It is based on Apache Pivot. 
 - [connectivity_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering the state of the network (WiFi & mobile/cellular) connectivity on Android and iOS. 
-- [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Flutter media playback, broadcast, recording & chromecast library. Based on libVLC & libVLC++. 
+- [contextual_menu](https://github.com/leanflutter/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus. 
+- [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Flutter media playback, broadcast, recording & chromecast library. Based on libvlc. 
 - [dbus](https://github.com/canonical/dbus.dart) - A native Dart implementation of the D-Bus message bus client. This package allows Dart applications to directly access services on the Linux desktop. 
 - [desktoasts](https://github.com/alexmercerind/desktoasts) - A plugin to show native toasts on Windows. 
 - [desktop_context_menu](https://github.com/rows/desktop_context_menu) - A plugin that opens a context menu on the cursor position. 
@@ -61,6 +62,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [nativeshell](https://github.com/nativeshell/nativeshell) - NativeShell Dart API. Used to interact with NativeShell platform code. 
 - [network_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering information (e.g. WiFi details) of the network. 
 - [nsd](https://github.com/sebastianhaberey/nsd) - A Flutter plugin for network service discovery and registration (aka NSD / DNS-SD / Bonjour / mDNS). 
+- [nsd](https://github.com/sebastianhaberey/nsd) - A Flutter plugin for network service discovery and registration (aka NSD / DNS-SD / Bonjour / mDNS). 
 - [package_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for querying information about the application package, such as CFBundleVersion on iOS or versionCode on Android. 
 - [pasteboard](https://github.com/MixinNetwork/flutter-plugins) - A flutter plugin which could read image,files from clipboard and write files to clipboard. 
 - [platform_device_id](https://github.com/BestBurning/platform_device_id) - You can get device id from platform - linux/mac/windows/android/ios/web. 
@@ -72,7 +74,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [quick_scanner](https://github.com/woodemi/quick_scanner) - A new flutter plugin project. 
 - [quick_usb](https://github.com/woodemi/quick_usb) - A cross-platform USB plugin for Flutter 
 - [screen_capturer](https://github.com/leanflutter/screen_capturer) - This plugin allows Flutter desktop apps to capture screenshots. 
-- [screen_retriever](https://github.com/leanflutter/screen_retriever) - This plugin allows Flutter **desktop** apps to Retrieve information about screen size, displays, cursor position, etc. 
+- [screen_retriever](https://github.com/leanflutter/screen_retriever) - This plugin allows Flutter desktop apps to Retrieve information about screen size, displays, cursor position, etc. 
 - [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) - This plugin allows Flutter desktop apps to extract text from screen. 
 - [share_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for sharing content via the platform share UI, using the ACTION_SEND intent on Android and UIActivityViewController on iOS. 
 - [squirrel](https://github.com/anaisbetts/squirrel-flutter) - Create installable desktop apps 
