@@ -206,6 +206,12 @@ entities:
   - pub_id: desktop_context_menu
     github_id: rows/desktop_context_menu
     category: packages
+  - pub_id: contextual_menu
+    github_id: leanflutter/contextual_menu
+    category: packages
+  - pub_id: nsd
+    github_id: sebastianhaberey/nsd
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
