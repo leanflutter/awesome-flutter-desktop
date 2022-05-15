@@ -30,6 +30,7 @@ A curated list of awesome things related to Flutter desktop.
 for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorage). 
 - [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) - A package to help with creating custom windows with Flutter desktop (custom border, titlebar and minimize/maximize/close buttons) and common desktop window operations (show/hide/position on screen) for Windows and macOS 
 - [chicago](https://github.com/tvolkert/chicago) - The Chicago widget set is an alternate design language for Flutter designed for desktop (keyboard and mouse) form factors. It is based on Apache Pivot. 
+- [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - This plugin allows Flutter desktop apps to watch clipboard changes. 
 - [connectivity_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering the state of the network (WiFi & mobile/cellular) connectivity on Android and iOS. 
 - [contextual_menu](https://github.com/leanflutter/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus. 
 - [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Flutter media playback, broadcast, recording & chromecast library. Based on libvlc. 
