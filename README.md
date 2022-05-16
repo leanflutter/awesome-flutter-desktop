@@ -1,8 +1,13 @@
 # awesome-flutter-desktop
 
-A curated list of awesome things related to Flutter desktop.
+![][visits-count-image] [![][discord-image]][discord-url]
 
-[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zPa6EZ2jqb)
+[visits-count-image]: https://img.shields.io/badge/dynamic/json?label=Visits%20Count&query=value&url=https://api.countapi.xyz/hit/leanflutter.awesome-flutter-desktop/visits
+
+[discord-image]: https://img.shields.io/discord/884679008049037342.svg
+[discord-url]: https://discord.gg/zPa6EZ2jqb
+
+A curated list of awesome things related to Flutter desktop.
 
 ---
 
@@ -15,6 +20,7 @@ A curated list of awesome things related to Flutter desktop.
   - [Packages](#packages)
   - [Projects](#projects)
   - [Related](#related)
+  - [Tools](#tools)
   - [Contribution](#contribution)
   - [License](#license)
 
