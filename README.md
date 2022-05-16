@@ -83,6 +83,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [system_tray](https://github.com/antler119/system_tray) - system_tray that makes it easy to customize tray and work with your Flutter desktop app. 
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
 - [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
+- [win_ble](https://github.com/rohitsangwan01/win_ble) - WinBle Plugin to use Bluetooth Low Energy in Flutter Windows Desktop 
 - [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a plugin help flutter app show toast on windows platform. 
 - [window_decorations](https://github.com/prateekmedia/window_decorations) - Deprecated, use https://pub.dev/packages/titlebar_buttons 
 - [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
