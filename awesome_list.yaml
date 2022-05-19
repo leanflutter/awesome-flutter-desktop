@@ -218,6 +218,12 @@ entities:
   - pub_id: win_ble
     github_id: rohitsangwan01/win_ble
     category: packages
+  - pub_id: app_links
+    github_id: llfbandit/app_links
+    category: packages
+  - pub_id: audioplayers
+    github_id: bluefireteam/audioplayers
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
