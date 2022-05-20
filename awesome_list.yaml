@@ -224,6 +224,9 @@ entities:
   - pub_id: audioplayers
     github_id: bluefireteam/audioplayers
     category: packages
+  - pub_id: record
+    github_id: llfbandit/record
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
