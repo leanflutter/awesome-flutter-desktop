@@ -82,6 +82,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [quick_notify](https://github.com/woodemi/quick_notify) - A cross-platform (Android/iOS/Web/Windows/macOS/Linux) notification plugin for Flutter. 
 - [quick_scanner](https://github.com/woodemi/quick_scanner) - A new flutter plugin project. 
 - [quick_usb](https://github.com/woodemi/quick_usb) - A cross-platform USB plugin for Flutter 
+- [record](https://github.com/llfbandit/record) - Audio recorder from microphone to a given file path with multiple codecs, bit rate and sampling rate options. 
 - [screen_capturer](https://github.com/leanflutter/screen_capturer) - This plugin allows Flutter desktop apps to capture screenshots. 
 - [screen_retriever](https://github.com/leanflutter/screen_retriever) - This plugin allows Flutter desktop apps to Retrieve information about screen size, displays, cursor position, etc. 
 - [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) - This plugin allows Flutter desktop apps to extract text from screen. 
