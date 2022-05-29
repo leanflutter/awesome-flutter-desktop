@@ -322,6 +322,11 @@ entities:
   - name: AirController
     github_id: air-controller/air-controller-desktop
     category: projects
+  - name: sidekick
+    homepage: http://fluttersidekick.com
+    github_id: fluttertools/sidekick
+    description: "A simple desktop interface for tools that enhance Flutter's development experience."
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
