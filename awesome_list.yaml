@@ -322,6 +322,10 @@ entities:
   - name: AirController
     github_id: air-controller/air-controller-desktop
     category: projects
+  - name: sidekick
+    homepage: http://fluttersidekick.com
+    github_id: fluttertools/sidekick
+    description: "A simple desktop interface for tools that enhance Flutter's development experience."
   - name: StreamKit Chat Reader
     description: A desktop Twitch chat reader (text-to-speech) with multilingual support through automatic language detection.
     github_id: mentegago/streamkit
