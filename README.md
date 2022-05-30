@@ -30,7 +30,7 @@ A curated list of awesome things related to Flutter desktop.
 
 ## Packages
 - [app_links](https://github.com/llfbandit/app_links) - Android App Links, Deep Links, iOs Universal Links and Custom URL schemes handler for Flutter (desktop included). 
-- [arna](https://github.com/MahanRahmati/Arna) - Arna Framework - A unique set of widgets for building applications with Flutter. ([Live Preview](https://mahanrahmati.github.io/arna_demo/))
+- [arna](https://github.com/MahanRahmati/Arna) - Arna is a set of widgets designed to be simple and easy to use for building applications with Flutter. ([Live Preview](https://mahanrahmati.github.io/arna_demo/))
 - [audioplayers](https://github.com/bluefireteam/audioplayers) - A Flutter plugin to play multiple audio files simultaneously 
 - [auto_updater](https://github.com/leanflutter/auto_updater) - This plugin allows Flutter desktop apps to automatically update themselves (based on sparkle and winsparkle). 
 - [battery_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for accessing information about the battery state(full, charging, discharging). 
@@ -120,6 +120,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter. ([Live Preview](https://web.dahliaos.io/))
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot 
 - [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱 
+- [StreamKit Chat Reader](https://github.com/mentegago/streamkit) - Reads your Twitch chat, with automatic language detection! 
 - [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer) -  
 - [Yukino](https://github.com/yukino-app/yukino) - ❄️ [WIP] An extension based Anime & Manga client. 
 - [appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. 
