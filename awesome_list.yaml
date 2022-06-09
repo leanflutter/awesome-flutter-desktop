@@ -333,6 +333,10 @@ entities:
     description: A desktop Twitch chat reader (text-to-speech) with multilingual support through automatic language detection.
     github_id: mentegago/streamkit
     category: projects
+  - name: Amphitheatre Desktop
+    homepage: http://docs.amphitheatre.app
+    github_id: amphitheatre-app/desktop
+
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
