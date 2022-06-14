@@ -103,6 +103,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 
 ## Projects
 - [AirController](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter. 
+- [Amphitheatre Desktop](https://github.com/amphitheatre-app/desktop) - Open source Flutter-based GUI application that enables you to interact with Amphitheatre 
 - [AppImage Pool](https://github.com/prateekmedia/appimagepool) - A simple, modern AppImageHub Client, powered by flutter. 
 - [AuthPass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. 
 - [Biyi (比译)](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in Flutter. 
@@ -128,6 +129,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [jellyflut](https://github.com/Thomas-Sohier/jellyflut) - Just a jellyfin client made in flutter (side project quality code) 
 - [lumi](https://github.com/rootasjey/lumi) - Philips Hue app to control lights and sensors 
 - [quickgui](https://github.com/quickgui/quickgui) -  
+- [wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA) 
 
 ## Related
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 
