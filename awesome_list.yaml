@@ -336,7 +336,10 @@ entities:
   - name: Amphitheatre Desktop
     homepage: http://docs.amphitheatre.app
     github_id: amphitheatre-app/desktop
-
+    category: projects
+  - name: wsa_pacman
+    github_id: alesimula/wsa_pacman
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
