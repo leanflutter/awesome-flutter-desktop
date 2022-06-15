@@ -340,6 +340,10 @@ entities:
   - name: wsa_pacman
     github_id: alesimula/wsa_pacman
     category: projects
+  - name: flutter_dating_template
+    description: A dating app template for The Flutter version, with a total of 35 pages, was created based on MockJS.
+    github_id: meetqy/flutter_dating_template
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
