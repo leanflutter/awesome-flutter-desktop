@@ -29,6 +29,7 @@ A curated list of awesome things related to Flutter desktop.
 <!-- AWESOME_LIST_MAKER -->
 
 ## Packages
+- [anni_mpris_service](https://github.com/ProjectAnni/mpris_service) - D-Bus MPRIS controls for Linux. 
 - [app_links](https://github.com/llfbandit/app_links) - Android App Links, Deep Links, iOs Universal Links and Custom URL schemes handler for Flutter (desktop included). 
 - [arna](https://github.com/MahanRahmati/Arna) - Arna is a set of widgets designed to be simple and easy to use for building applications with Flutter. ([Live Preview](https://mahanrahmati.github.io/arna_demo/))
 - [audioplayers](https://github.com/bluefireteam/audioplayers) - A Flutter plugin to play multiple audio files simultaneously 
@@ -82,7 +83,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [quick_breakpad](https://github.com/woodemi/quick_breakpad) - A cross-platform flutter plugin for `C/C++/ObjC` crash report via Google Breakpad 
 - [quick_notify](https://github.com/woodemi/quick_notify) - A cross-platform (Android/iOS/Web/Windows/macOS/Linux) notification plugin for Flutter. 
 - [quick_scanner](https://github.com/woodemi/quick_scanner) - A new flutter plugin project. 
-- [quick_usb](https://github.com/woodemi/quick_usb) - A cross-platform USB plugin for Flutter 
+- [quick_usb](https://github.com/woodemi/quick_usb) - A cross-platform (Android/Windows/macOS/Linux) USB plugin for Flutter 
 - [record](https://github.com/llfbandit/record) - Audio recorder from microphone to a given file path with multiple codecs, bit rate and sampling rate options. 
 - [screen_capturer](https://github.com/leanflutter/screen_capturer) - This plugin allows Flutter desktop apps to capture screenshots. 
 - [screen_retriever](https://github.com/leanflutter/screen_retriever) - This plugin allows Flutter desktop apps to Retrieve information about screen size, displays, cursor position, etc. 
@@ -115,7 +116,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [FluTube](https://github.com/prateekmedia/flutube) - Watch and download videos without ads 
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. 
 - [Flutter Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer) - Flutter Installer is an installer for Flutter built with Flutter 💙😎✌ 
-- [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library. YouTube Music client. Lyrics & Playlists. 
+- [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Time-synced lyrics, playlists & visuals. YouTube Music. 
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja client built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
 - [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
