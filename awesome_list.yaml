@@ -230,6 +230,9 @@ entities:
   - pub_id: keypress_simulator
     github_id: leanflutter/keypress_simulator
     category: packages
+  - pub_id: anni_mpris_service
+    github_id: ProjectAnni/mpris_service
+    category: packages
   # PROJECTS
   - name: Biyi (比译)
     homepage: https://biyidev.com/
