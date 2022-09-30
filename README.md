@@ -116,11 +116,12 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [FluTube](https://github.com/prateekmedia/flutube) - Watch and download videos without ads 
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. 
 - [Flutter Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer) - Flutter Installer is an installer for Flutter built with Flutter 💙😎✌ 
-- [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Time-synced lyrics, playlists & visuals. YouTube Music. 
+- [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. 
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja client built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
 - [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
 - [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter. ([Live Preview](https://web.dahliaos.io/))
+- [RustDesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. 
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot 
 - [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱 
 - [StreamKit Chat Reader](https://github.com/mentegago/streamkit) - Reads your Twitch chat, with automatic language detection! 
@@ -129,7 +130,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. 
 - [jellyflut](https://github.com/Thomas-Sohier/jellyflut) - Just a jellyfin client made in flutter (side project quality code) 
 - [lumi](https://github.com/rootasjey/lumi) - Philips Hue app to control lights and sensors 
-- [quickgui](https://github.com/quickgui/quickgui) -  
+- [quickgui](https://github.com/quickgui/quickgui) - A Flutter frontend for quickget and quickemu. 
 - [wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA) 
 
 ## Related
