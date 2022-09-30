@@ -343,6 +343,9 @@ entities:
   - name: wsa_pacman
     github_id: alesimula/wsa_pacman
     category: projects
+  - name: RustDesk
+    github_id: rustdesk/rustdesk
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
