@@ -50,6 +50,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [desktop_webview_window](https://github.com/MixinNetwork/flutter-plugins) - Show a webview window on your flutter deksktop application. 
 - [desktop_window](https://github.com/mix1009/desktop_window) - Flutter desktop plugin(macOS/Linux/Windows) to get and change window size. 
 - [device_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin providing detailed information about the device (make, model, etc.), and Android or iOS version the app is running on. 
+- [disks_desktop](https://github.com/AngeloAvv/disks) - A Flutter desktop library able to retrieve the installed devices information 
 - [fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Windows UI in Flutter. Based on the official documentation ([Live Preview](https://bdlukaa.github.io/fluent_ui/))
 - [flutter95](https://github.com/miquelbeltran/flutter95) - Windows95 UI components for Flutter apps. Bring back the nostalgic look and feel of old operating systems with this set of UI components ready to use. 
 - [flutter_acrylic](https://github.com/alexmercerind/flutter_acrylic) - Window acrylic, mica & transparency effects for Flutter on Windows, macOS & Linux. 
