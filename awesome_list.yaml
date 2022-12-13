@@ -349,6 +349,9 @@ entities:
   - name: RustDesk
     github_id: rustdesk/rustdesk
     category: projects
+  - name: ArthurMorgan
+    github_id: belikesohan/arthurmorgan
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
