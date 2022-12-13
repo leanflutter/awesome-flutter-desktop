@@ -42,7 +42,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - This plugin allows Flutter desktop apps to watch clipboard changes. 
 - [connectivity_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering the state of the network (WiFi & mobile/cellular) connectivity on Android and iOS. 
 - [contextual_menu](https://github.com/leanflutter/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus. 
-- [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Flutter media playback, broadcast, recording & chromecast library. Based on libvlc. 
+- [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Flutter audio / video playback, broadcast & recording library for Windows & Linux. Based on libvlc. 
 - [dbus](https://github.com/canonical/dbus.dart) - A native Dart implementation of the D-Bus message bus client. This package allows Dart applications to directly access services on the Linux desktop. 
 - [desktoasts](https://github.com/alexmercerind/desktoasts) - A plugin to show native toasts on Windows. 
 - [desktop_context_menu](https://github.com/rows/desktop_context_menu) - A plugin that opens a context menu on the cursor position. 
@@ -96,7 +96,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
 - [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
 - [win_ble](https://github.com/rohitsangwan01/win_ble) - WinBle Plugin to use Bluetooth Low Energy in Flutter Windows Desktop 
-- [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a plugin help flutter app show toast on windows platform. 
+- [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a flutter plugin that allows users to create and display toast notifications to notification center on the Windows operating system. 
 - [window_decorations](https://github.com/prateekmedia/window_decorations) - Deprecated, use https://pub.dev/packages/titlebar_buttons 
 - [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
 - [windows_ocr](https://github.com/hamdikahloun/windows_ocr) - A new flutter plugin project. 
@@ -107,6 +107,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [AirController](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter. 
 - [Amphitheatre Desktop](https://github.com/amphitheatre-app/desktop) - Open source Flutter-based GUI application that enables you to interact with Amphitheatre 
 - [AppImage Pool](https://github.com/prateekmedia/appimagepool) - A simple, modern AppImageHub Client, powered by flutter. 
+- [ArthurMorgan](https://github.com/belikesohan/arthurmorgan) - Cross-Platform Google Drive client with encryption support. 
 - [AuthPass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. 
 - [Biyi (比译)](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in Flutter. 
 - [BlueBubbles](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! 
@@ -118,7 +119,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. 
 - [Flutter Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer) - Flutter Installer is an installer for Flutter built with Flutter 💙😎✌ 
 - [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. 
-- [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja client built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
+- [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja: Admin portal built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
 - [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
 - [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter. ([Live Preview](https://web.dahliaos.io/))
