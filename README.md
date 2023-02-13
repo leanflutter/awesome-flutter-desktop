@@ -138,6 +138,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 ## Related
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 
 - [awesome-flutter-linux](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects. 
+- [Flutter Developer Roadmap](https://roadmap.sh/flutter) - Complete guide to become a Flutter Developer. 
 
 ## Tools
 - [flutter_distributor](https://github.com/leanflutter/flutter_distributor) - A complete tool for packaging and publishing your Flutter apps. 
