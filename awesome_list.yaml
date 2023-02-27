@@ -352,6 +352,12 @@ entities:
   - name: ArthurMorgan
     github_id: belikesohan/arthurmorgan
     category: projects
+  - name: FlutterCleaner
+    github_id: schilken/flutter_cleaner
+    category: projects
+  - name: GitCommitStreak
+    github_id: schilken/git_commit_streak
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
