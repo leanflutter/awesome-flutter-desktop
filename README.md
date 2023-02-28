@@ -47,7 +47,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [desktoasts](https://github.com/alexmercerind/desktoasts) - A plugin to show native toasts on Windows. 
 - [desktop_context_menu](https://github.com/rows/desktop_context_menu) - A plugin that opens a context menu on the cursor position. 
 - [desktop_drop](https://github.com/MixinNetwork/flutter-plugins) - A plugin which allows user dragging files to your flutter desktop applications. 
-- [desktop_webview_window](https://github.com/MixinNetwork/flutter-plugins) - Show a webview window on your flutter deksktop application. 
+- [desktop_webview_window](https://github.com/MixinNetwork/flutter-plugins) - Show a webview window on your flutter desktop application. 
 - [desktop_window](https://github.com/mix1009/desktop_window) - Flutter desktop plugin(macOS/Linux/Windows) to get and change window size. 
 - [device_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin providing detailed information about the device (make, model, etc.), and Android or iOS version the app is running on. 
 - [disks_desktop](https://github.com/AngeloAvv/disks) - A Flutter desktop library able to retrieve the installed devices information 
@@ -59,7 +59,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [flutter_platform_alert](https://github.com/zonble/flutter_platform_alert) - A plugin helps to call native API to play alert sound and show alert dialogs. For example, it bridges MessageBox and TaskDialogIndirect on Windows. 
 - [flutter_window_close](https://github.com/zonble/flutter_window_close) - Let your Flutter app has a chance to confirm if the user wants to close your app. 
 - [global_shortcuts](https://github.com/defuncart/global_shortcuts) - A macOS plugin which can register a callback for a global keyboard shortcut. 
-- [gtk](https://github.com/prateekmedia/gtk-flutter) - MOVED TO https://pub.dev/packages/libadwaita 
+- [gtk](https://github.com/prateekmedia/gtk-flutter) - GTK+ utilities for Flutter Linux applications. 
 - [hotkey_manager](https://github.com/leanflutter/hotkey_manager) - This plugin allows Flutter desktop apps to defines system/inapp wide hotkey (i.e. shortcut). 
 - [just_audio](https://github.com/ryanheise/just_audio) - A feature-rich audio player for Flutter. Loop, clip and concatenate any sound from any source (asset/file/URL/stream) in a variety of audio formats with gapless playback. 
 - [just_audio_libwinmedia](https://github.com/bdlukaa/just_audio_libwinmedia) - Libwinmedia implementation of just_audio. This implementation is endorsed and therefore doesn't require a direct dependency. 
@@ -118,6 +118,8 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [FluTube](https://github.com/prateekmedia/flutube) - Watch and download videos without ads 
 - [Flutter Folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. 
 - [Flutter Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer) - Flutter Installer is an installer for Flutter built with Flutter 💙😎✌ 
+- [FlutterCleaner](https://github.com/schilken/flutter_cleaner) -  
+- [GitCommitStreak](https://github.com/schilken/git_commit_streak) - A tool that shows the number of consecutive days with at least one commit per day. 
 - [Harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. 
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal) - Invoice Ninja: Admin portal built with Flutter ([Live Preview](https://demo.invoiceninja.com/#/))
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
@@ -138,7 +140,6 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 ## Related
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 
 - [awesome-flutter-linux](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects. 
-- [Flutter Developer Roadmap](https://roadmap.sh/flutter) - Complete guide to become a Flutter Developer. 
 
 ## Tools
 - [flutter_distributor](https://github.com/leanflutter/flutter_distributor) - A complete tool for packaging and publishing your Flutter apps. 
