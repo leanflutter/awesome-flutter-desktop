@@ -358,6 +358,10 @@ entities:
   - name: GitCommitStreak
     github_id: schilken/git_commit_streak
     category: projects
+  - name: Brisk
+    description: Fast, multi-threaded, cross-platform download manager
+    github_id: AminBhst/brisk
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
