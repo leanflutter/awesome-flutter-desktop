@@ -39,7 +39,7 @@ A curated list of awesome things related to Flutter desktop.
 for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorage). 
 - [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) - A package to help with creating custom windows with Flutter desktop (custom border, titlebar and minimize/maximize/close buttons) and common desktop window operations (show/hide/position on screen) for Windows and macOS 
 - [chicago](https://github.com/tvolkert/chicago) - The Chicago widget set is an alternate design language for Flutter designed for desktop (keyboard and mouse) form factors. It is based on Apache Pivot. 
-- [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - This plugin allows Flutter desktop apps to watch clipboard changes. 
+- [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - This plugin allows Flutter apps to watch clipboard changes. 
 - [connectivity_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering the state of the network (WiFi & mobile/cellular) connectivity on Android and iOS. 
 - [contextual_menu](https://github.com/leanflutter/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus. 
 - [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Flutter audio / video playback, broadcast & recording library for Windows & Linux. Based on libvlc. 
@@ -111,6 +111,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [AuthPass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. 
 - [Biyi (比译)](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in Flutter. 
 - [BlueBubbles](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! 
+- [Brisk](https://github.com/AminBhst/brisk) - Fast, multi-threaded, cross-platform download manager 
 - [Cash Balancer](https://github.com/bernaferrari/CashBalancer) - It is too hard to balance money across different assets and accounts. ([Live Preview](https://bernaferrari.github.io/CashBalancer/))
 - [Color Studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help. ([Live Preview](https://bernaferrari.github.io/color-studio/))
 - [Drip](https://github.com/Spsden/Drip) - A Youtube Music client for Desktop. (in Development) 
@@ -125,9 +126,9 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included 
 - [Odin](https://github.com/odinapp/odin) - Open-source, cross-platform, hassle-free file sharing with AES-256 encryption made with Flutter & Dart. 
 - [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter. ([Live Preview](https://web.dahliaos.io/))
-- [RustDesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. 
+- [RustDesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. 
 - [Sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot 
-- [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱 
+- [Spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! 
 - [StreamKit Chat Reader](https://github.com/mentegago/streamkit) - Reads your Twitch chat, with automatic language detection! 
 - [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer) -  
 - [Yukino](https://github.com/yukino-app/yukino) - ❄️ [WIP] An extension based Anime & Manga client. 
