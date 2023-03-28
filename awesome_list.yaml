@@ -362,6 +362,10 @@ entities:
     description: Fast, multi-threaded, cross-platform download manager
     github_id: AminBhst/brisk
     category: projects
+  - name: API Dash
+    description: API Dash ⚡️ is an open-source cross-platform API Client which can also generate Dart code for API integration.
+    github_id: foss42/api-dash
+    category: projects
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
