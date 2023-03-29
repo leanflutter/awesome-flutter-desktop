@@ -104,8 +104,9 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [yaru](https://github.com/ubuntu/yaru.dart) - Ubuntu Yaru Style - Distinct look and feel of the Ubuntu Desktop 
 
 ## Projects
+- [API Dash](https://github.com/foss42/api-dash) - API Dash is a beautiful open-source cross-platform API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate Dart code on the go. 
 - [AirController](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter. 
-- [Amphitheatre Desktop](https://github.com/amphitheatre-app/desktop) - Open source Flutter-based GUI application that enables you to interact with Amphitheatre 
+- [Amphitheatre Desktop](https://github.com/amphitheatre-app/desktop) - Open source GUI application that enables you to interact with Amphitheatre 
 - [AppImage Pool](https://github.com/prateekmedia/appimagepool) - A simple, modern AppImageHub Client, powered by flutter. 
 - [ArthurMorgan](https://github.com/belikesohan/arthurmorgan) - Cross-Platform Google Drive client with encryption support. 
 - [AuthPass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. 
