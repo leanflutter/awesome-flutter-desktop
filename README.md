@@ -35,7 +35,7 @@ A curated list of awesome things related to Flutter desktop, The project list ha
 for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorage). 
 - [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) - A package to help with creating custom windows with Flutter desktop (custom border, titlebar and minimize/maximize/close buttons) and common desktop window operations (show/hide/position on screen) for Windows and macOS 
 - [chicago](https://github.com/tvolkert/chicago) - The Chicago widget set is an alternate design language for Flutter designed for desktop (keyboard and mouse) form factors. It is based on Apache Pivot. 
-- [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - This plugin allows Flutter desktop apps to watch clipboard changes. 
+- [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - This plugin allows Flutter apps to watch clipboard changes. 
 - [connectivity_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering the state of the network (WiFi & mobile/cellular) connectivity on Android and iOS. 
 - [contextual_menu](https://github.com/leanflutter/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus. 
 - [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Flutter audio / video playback, broadcast & recording library for Windows & Linux. Based on libvlc. 
@@ -80,7 +80,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [quick_notify](https://github.com/woodemi/quick_notify) - A cross-platform (Android/iOS/Web/Windows/macOS/Linux) notification plugin for Flutter. 
 - [quick_scanner](https://github.com/woodemi/quick_scanner) - A new flutter plugin project. 
 - [quick_usb](https://github.com/woodemi/quick_usb) - A cross-platform (Android/Windows/macOS/Linux) USB plugin for Flutter 
-- [record](https://github.com/llfbandit/record) - Audio recorder from microphone to a given file path with multiple codecs, bit rate and sampling rate options. 
+- [record](https://github.com/llfbandit/record) - Audio recorder from microphone to file or stream with multiple codecs, bit rate and sampling rate options. 
 - [screen_capturer](https://github.com/leanflutter/screen_capturer) - This plugin allows Flutter desktop apps to capture screenshots. 
 - [screen_retriever](https://github.com/leanflutter/screen_retriever) - This plugin allows Flutter desktop apps to Retrieve information about screen size, displays, cursor position, etc. 
 - [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) - This plugin allows Flutter desktop apps to extract text from screen. 
@@ -90,7 +90,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [system_tray](https://github.com/antler119/system_tray) - system_tray that makes it easy to customize tray and work with your Flutter desktop app. 
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
 - [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
-- [win_ble](https://github.com/rohitsangwan01/win_ble) - WinBle Plugin to use Bluetooth Low Energy in Flutter Windows Desktop 
+- [win_ble](https://github.com/rohitsangwan01/win_ble) - Use the WinBle plugin to enable Bluetooth Low Energy in Flutter Windows and pure Dart projects (Windows only) 
 - [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a flutter plugin that allows users to create and display toast notifications to notification center on the Windows operating system. 
 - [window_decorations](https://github.com/prateekmedia/window_decorations) - Deprecated, use https://pub.dev/packages/titlebar_buttons 
 - [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
@@ -103,7 +103,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [awesome-flutter-linux](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects. 
 
 ## Tools
-- [flutter_distributor](https://github.com/leanflutter/flutter_distributor) - A complete tool for packaging and publishing your Flutter apps. 
+- [flutter_distributor](https://github.com/leanflutter/flutter_distributor) - An all-in-one Flutter application packaging and distribution tool, providing you with a one-stop solution to meet various distribution needs. 
 
 
 <!-- AWESOME_LIST_MAKER -->
