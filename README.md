@@ -38,6 +38,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [clipboard_watcher](https://github.com/leanflutter/clipboard_watcher) - This plugin allows Flutter apps to watch clipboard changes. 
 - [connectivity_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for discovering the state of the network (WiFi & mobile/cellular) connectivity on Android and iOS. 
 - [contextual_menu](https://github.com/leanflutter/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus. 
+- [contextual_menu](https://github.com/leanflutter/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus. 
 - [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Flutter audio / video playback, broadcast & recording library for Windows & Linux. Based on libvlc. 
 - [dbus](https://github.com/canonical/dbus.dart) - A native Dart implementation of the D-Bus message bus client. This package allows Dart applications to directly access services on the Linux desktop. 
 - [desktoasts](https://github.com/alexmercerind/desktoasts) - A plugin to show native toasts on Windows. 
@@ -85,11 +86,14 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [screen_retriever](https://github.com/leanflutter/screen_retriever) - This plugin allows Flutter desktop apps to Retrieve information about screen size, displays, cursor position, etc. 
 - [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) - This plugin allows Flutter desktop apps to extract text from screen. 
 - [share_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for sharing content via the platform share UI, using the ACTION_SEND intent on Android and UIActivityViewController on iOS. 
+- [shortcut_menu_extender](https://github.com/leanflutter/shortcut_menu_extender) - This plugin allows Flutter apps to Extending global shortcut menus. 
 - [squirrel](https://github.com/anaisbetts/squirrel-flutter) - Create installable desktop apps 
 - [stockholm](https://github.com/serverpod/stockholm) - A collection of desktop-first widgets and themes designed to look and feel great on Mac and Windows. ([Live Preview](https://serverpod.dev/stockholm/))
 - [system_tray](https://github.com/antler119/system_tray) - system_tray that makes it easy to customize tray and work with your Flutter desktop app. 
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
+- [vclibs](https://github.com/leanflutter/vclibs) - Let your flutter windows apps include vclibs. 
 - [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
+- [win32_registry](https://github.com/dart-windows/win32_registry) - A package that provides a friendly Dart API for accessing the Windows Registry. 
 - [win_ble](https://github.com/rohitsangwan01/win_ble) - Use the WinBle plugin to enable Bluetooth Low Energy in Flutter Windows and pure Dart projects (Windows only) 
 - [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a flutter plugin that allows users to create and display toast notifications to notification center on the Windows operating system. 
 - [window_decorations](https://github.com/prateekmedia/window_decorations) - Deprecated, use https://pub.dev/packages/titlebar_buttons 
