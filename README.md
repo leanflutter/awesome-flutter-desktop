@@ -100,7 +100,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [window_decorations](https://github.com/prateekmedia/window_decorations) - Deprecated, use https://pub.dev/packages/titlebar_buttons 
 - [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
 - [windows_ocr](https://github.com/hamdikahloun/windows_ocr) - A new flutter plugin project. 
-- [windows_single_instance](https://github.com/SongbookPro/windows_single_instance) - Forces a single instance of your Windows app, bringing the existing window to the front when a new instance is opened. 
+- [windows_single_instance](https://github.com/SongbookPro/flutter_windows_single_instance) - Forces a single instance of your Windows app, bringing the existing window to the front when a new instance is opened. 
 - [windows_taskbar](https://github.com/alexmercerind/windows_taskbar) - Flutter plugin serving utilities related to Windows taskbar. 
 - [yaru](https://github.com/ubuntu/yaru.dart) - Common flutter widgets useful for building desktop and web applications. 
 
