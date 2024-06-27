@@ -231,17 +231,23 @@ entities:
   - pub_id: disks_desktop
     github_id: AngeloAvv/disks
     category: packages
-  - pub_id: contextual_menu 
-    github_id: leanflutter/contextual_menu 
+  - pub_id: contextual_menu
+    github_id: leanflutter/contextual_menu
     category: packages
-  - pub_id: shortcut_menu_extender 
-    github_id: leanflutter/shortcut_menu_extender 
+  - pub_id: shortcut_menu_extender
+    github_id: leanflutter/shortcut_menu_extender
     category: packages
   - pub_id: vclibs
     github_id: leanflutter/vclibs
     category: packages
   - pub_id: win32_registry
     github_id: dart-windows/win32_registry
+    category: packages
+  - pub_id: unix_single_instance
+    github_id: arran4/dart_unix_single_instance
+    category: packages
+  - pub_id: windows_single_instance
+    github_id: SongbookPro/windows_single_instance
     category: packages
   # TOOLS
   - name: flutter_distributor
