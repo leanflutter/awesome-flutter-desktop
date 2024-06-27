@@ -64,6 +64,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [launch_at_login](https://github.com/maxisme/launch_at_login) - A new flutter plugin project. 
 - [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - This plugin allows Flutter desktop apps to Auto launch on startup / login. 
 - [libwinmedia](https://github.com/harmonoid/libwinmedia) - A cross-platform media playback library for C/C++ & Flutter with good number of features. 
+- [unix_single_instance](https://pub.dev/packages/unix_single_instance) - Ensures that only one copy of your app is running at any one time on linux and mac.
 - [local_notifier](https://github.com/leanflutter/local_notifier) - This plugin allows Flutter desktop apps to displaying local notifications. 
 - [macos_ui](https://github.com/GroovinChip/macos_ui) - Flutter widgets and themes implementing the current macOS design language. ([Live Preview](https://groovinchip.github.io/macos_ui/))
 - [msix](https://github.com/YehudaKremer/msix) - A command-line tool that create Msix installer from your flutter windows-build files. 
@@ -96,7 +97,8 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [win32_registry](https://github.com/dart-windows/win32_registry) - A package that provides a friendly Dart API for accessing the Windows Registry. 
 - [win_ble](https://github.com/rohitsangwan01/win_ble) - Use the WinBle plugin to enable Bluetooth Low Energy in Flutter Windows and pure Dart projects (Windows only) 
 - [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a flutter plugin that allows users to create and display toast notifications to notification center on the Windows operating system. 
-- [window_decorations](https://github.com/prateekmedia/window_decorations) - Deprecated, use https://pub.dev/packages/titlebar_buttons 
+- [window_decorations](https://github.com/prateekmedia/window_decorations) - Deprecated, use https://pub.dev/packages/titlebar_buttons
+- [windows_single_instance](https://pub.dev/packages/windows_single_instance) - Ensures that only one copy of your app is running at any one time in windows.
 - [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
 - [windows_ocr](https://github.com/hamdikahloun/windows_ocr) - A new flutter plugin project. 
 - [windows_taskbar](https://github.com/alexmercerind/windows_taskbar) - Flutter plugin serving utilities related to Windows taskbar. 
