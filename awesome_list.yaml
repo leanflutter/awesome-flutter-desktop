@@ -247,7 +247,7 @@ entities:
     github_id: arran4/dart_unix_single_instance
     category: packages
   - pub_id: windows_single_instance
-    github_id: SongbookPro/windows_single_instance
+    github_id: SongbookPro/flutter_windows_single_instance
     category: packages
   # TOOLS
   - name: flutter_distributor

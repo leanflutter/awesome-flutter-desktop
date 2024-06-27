@@ -91,6 +91,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [stockholm](https://github.com/serverpod/stockholm) - A collection of desktop-first widgets and themes designed to look and feel great on Mac and Windows. ([Live Preview](https://serverpod.dev/stockholm/))
 - [system_tray](https://github.com/antler119/system_tray) - system_tray that makes it easy to customize tray and work with your Flutter desktop app. 
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
+- [unix_single_instance](https://github.com/arran4/dart_unix_single_instance) - A library which uses unix sockets to ensure a single instance 
 - [vclibs](https://github.com/leanflutter/vclibs) - Let your flutter windows apps include vclibs. 
 - [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
 - [win32_registry](https://github.com/dart-windows/win32_registry) - A package that provides a friendly Dart API for accessing the Windows Registry. 
@@ -99,8 +100,9 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [window_decorations](https://github.com/prateekmedia/window_decorations) - Deprecated, use https://pub.dev/packages/titlebar_buttons 
 - [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window. 
 - [windows_ocr](https://github.com/hamdikahloun/windows_ocr) - A new flutter plugin project. 
+- [windows_single_instance](https://github.com/SongbookPro/windows_single_instance) - Forces a single instance of your Windows app, bringing the existing window to the front when a new instance is opened. 
 - [windows_taskbar](https://github.com/alexmercerind/windows_taskbar) - Flutter plugin serving utilities related to Windows taskbar. 
-- [yaru](https://github.com/ubuntu/yaru.dart) - Ubuntu Yaru Style - Distinct look and feel of the Ubuntu Desktop 
+- [yaru](https://github.com/ubuntu/yaru.dart) - Common flutter widgets useful for building desktop and web applications. 
 
 ## Related
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 
