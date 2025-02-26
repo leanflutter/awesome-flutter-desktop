@@ -29,7 +29,6 @@ A curated list of awesome things related to Flutter desktop, The project list ha
 - [app_links](https://github.com/llfbandit/app_links) - Android App Links, Deep Links, iOs Universal Links and Custom URL schemes handler for Flutter (desktop included). 
 - [arna](https://github.com/MahanRahmati/Arna) - Arna is a set of widgets designed to be simple and easy to use for building applications with Flutter. ([Live Preview](https://mahanrahmati.github.io/arna_demo/))
 - [audioplayers](https://github.com/bluefireteam/audioplayers) - A Flutter plugin to play multiple audio files simultaneously 
-- [auto_scrolling](https://github.com/KeepAscent/auto_scrolling) - This package provides widgets that adds middle click scrolling (autoscrolling) to scrollable widgets.
 - [auto_updater](https://github.com/leanflutter/auto_updater) - This plugin allows Flutter desktop apps to automatically update themselves (based on sparkle and winsparkle). 
 - [battery_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for accessing information about the battery state(full, charging, discharging). 
 - [biometric_storage](https://github.com/authpass/biometric_storage) - Secure Storage: Encrypted data store optionally secured by biometric lock with support
@@ -49,7 +48,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [desktop_window](https://github.com/mix1009/desktop_window) - Flutter desktop plugin(macOS/Linux/Windows) to get and change window size. 
 - [device_info_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin providing detailed information about the device (make, model, etc.), and Android or iOS version the app is running on. 
 - [disks_desktop](https://github.com/AngeloAvv/disks) - A Flutter desktop library able to retrieve the installed devices information 
-- [fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Windows UI in Flutter. Based on the official documentation ([Live Preview](https://bdlukaa.github.io/fluent_ui/))
+- [fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Windows UI in Flutter. ([Live Preview](https://bdlukaa.github.io/fluent_ui/))
 - [flutter95](https://github.com/miquelbeltran/flutter95) - Windows95 UI components for Flutter apps. Bring back the nostalgic look and feel of old operating systems with this set of UI components ready to use. 
 - [flutter_acrylic](https://github.com/alexmercerind/flutter_acrylic) - Window acrylic, mica & transparency effects for Flutter on Windows, macOS & Linux. 
 - [flutter_js](https://github.com/abner/flutter_js) - A Javascript engine to use with flutter. It uses Quickjs on Android and JavascriptCore on IOS 
@@ -94,7 +93,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
 - [unix_single_instance](https://github.com/arran4/dart_unix_single_instance) - A library which uses unix sockets to ensure a single instance 
 - [vclibs](https://github.com/leanflutter/vclibs) - Let your flutter windows apps include vclibs. 
-- [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
+- [win32](https://github.com/timsneath/win32) - Access common Win32 APIs directly from Dart using FFI — no C required! 
 - [win32_registry](https://github.com/dart-windows/win32_registry) - A package that provides a friendly Dart API for accessing the Windows Registry. 
 - [win_ble](https://github.com/rohitsangwan01/win_ble) - Use the WinBle plugin to enable Bluetooth Low Energy in Flutter Windows and pure Dart projects (Windows only) 
 - [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a flutter plugin that allows users to create and display toast notifications to notification center on the Windows operating system. 
