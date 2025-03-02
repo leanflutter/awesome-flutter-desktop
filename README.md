@@ -29,6 +29,7 @@ A curated list of awesome things related to Flutter desktop, The project list ha
 - [app_links](https://github.com/llfbandit/app_links) - Android App Links, Deep Links, iOs Universal Links and Custom URL schemes handler for Flutter (desktop included). 
 - [arna](https://github.com/MahanRahmati/Arna) - Arna is a set of widgets designed to be simple and easy to use for building applications with Flutter. ([Live Preview](https://mahanrahmati.github.io/arna_demo/))
 - [audioplayers](https://github.com/bluefireteam/audioplayers) - A Flutter plugin to play multiple audio files simultaneously 
+- [auto_scrolling](https://github.com/KeepAscent/auto_scrolling) - Enables auto scrolling in a scrollable (ListView, GridView, etc.) by using tertiary mouse button (mouse wheel click). 
 - [auto_updater](https://github.com/leanflutter/auto_updater) - This plugin allows Flutter desktop apps to automatically update themselves (based on sparkle and winsparkle). 
 - [battery_plus](https://github.com/fluttercommunity/plus_plugins) - Flutter plugin for accessing information about the battery state(full, charging, discharging). 
 - [biometric_storage](https://github.com/authpass/biometric_storage) - Secure Storage: Encrypted data store optionally secured by biometric lock with support
