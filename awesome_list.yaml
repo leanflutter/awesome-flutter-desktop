@@ -249,6 +249,9 @@ entities:
   - pub_id: windows_single_instance
     github_id: SongbookPro/flutter_windows_single_instance
     category: packages
+  - pub_id: auto_scrolling
+    github_id: KeepAscent/auto_scrolling
+    category: packages
   # TOOLS
   - name: flutter_distributor
     github_id: leanflutter/flutter_distributor
