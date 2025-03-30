@@ -1,3 +1,5 @@
+> **🚀 Ship Your App Faster**: Try [Fastforge](https://fastforge.dev) - The simplest way to build, package and distribute your Flutter apps.
+
 # awesome-flutter-desktop
 
 [![][discord-image]][discord-url]
