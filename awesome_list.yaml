@@ -263,3 +263,7 @@ entities:
   - name: awesome-flutter
     github_id: Solido/awesome-flutter
     category: related
+  - pub_id: infinite_calendar_view
+    github_id: pickywawa/infinite_calendar_view
+    livepreview_url: https://pickywawa.github.io/infinite_calendar_view_demo/
+    category: packages
